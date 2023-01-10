@@ -1,6 +1,5 @@
 import pandas as pd
 import re
-from IPython.display import display
 
 path = "data/poker/"
 file = "Ancha II-2.50-5-USD-NoLimitHoldem-PokerStars-1-7-2023.txt"
@@ -79,8 +78,5 @@ df = pd.DataFrame({
     "river_action": river_action,
     "summary": summary
 })
-
-# print the first 5 rows of the dataframe
-display(df.head())
 
 print(pattern)

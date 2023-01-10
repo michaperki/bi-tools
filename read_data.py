@@ -29,17 +29,16 @@ rx_players = r"((?:\n.* \(.\d+.\d+ in chips\)){1,9})"
 rx_start = r"((?:\n.*)+)\n\*\*\* HOLE CARDS \*\*\*"
 rx_preflop_action = r"((?:\n[^\*].*)+)"
 rx_flop = r"\n\*\*\* FLOP \*\*\* (\[.*\])"
-rx_flop_action = r"(?:((?:\n[^\*].*)+)"
-rx_turn = r"\n\*\*\* TURN \*\*\* (\[.*\]))?"
-rx_turn_action = r"((?:\n[^\*].*)+)"
+rx_turn = r"\n\*\*\* TURN \*\*\* (\[.*\])"
 rx_river = r"\n\*\*\* RIVER \*\*\* (\[.*\])"
-rx_river_action = r"((?:\n[^\*].*)+)"
 rx_summary = r"\n\*\*\* SUMMARY \*\*\*((?:\n.*)+)"
 
+rx_action = r"((?:\n[^\*].*)+)"
 
-rx_river_optional = optional(rx_river, rx_river_action)
-rx_turn_and_river_optional = optional(rx_turn, rx_turn_action, rx_river_optional)
-rx_flop_turn_and_river_optional = optional(rx_flop, rx_flop_action, rx_turn_and_river_optional)
+
+rx_river_optional = optional(rx_river, rx_action)
+rx_turn_and_river_optional = optional(rx_turn, rx_action, rx_river_optional)
+rx_flop_turn_and_river_optional = optional(rx_flop, rx_action, rx_turn_and_river_optional)
 
 # combine regex
 pattern = rx_hand_num + rx_stakes + rx_date + rx_table + rx_max_players + rx_button + rx_players + rx_start + rx_preflop_action + rx_flop_turn_and_river_optional + rx_summary

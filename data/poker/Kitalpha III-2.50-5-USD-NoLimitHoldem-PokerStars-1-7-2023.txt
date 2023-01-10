@@ -1,0 +1,646 @@
+PokerStars Hand #240963921862:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 18:59:18 ET
+Table 'Kitalpha III' 9-max Seat #3 is the button
+Seat 1: kvitun ($628.50 in chips)
+Seat 2: mr.INSOMNIK ($663.22 in chips)
+Seat 3: elusivebanan ($595.26 in chips)
+Seat 4: 73top ($922.91 in chips)
+Seat 5: EVCalculator ($625.37 in chips)
+Seat 8: spzilla ($125.98 in chips)
+Seat 9: taras_kovel ($546.93 in chips)
+73top: posts small blind $2.50
+EVCalculator: posts big blind $5
+RB Tiger: sits out
+Painkiller72: sits out
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+spzilla: calls $5
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: calls $5
+73top: calls $2.50
+EVCalculator: checks
+*** FLOP *** [9d 7h 4d]
+73top: bets $19.24
+EVCalculator: folds
+spzilla: folds
+elusivebanan: folds
+Uncalled bet ($19.24) returned to 73top
+73top collected $25.65 from pot
+73top: doesn't show hand
+*** SUMMARY ***
+Total pot $27 | Rake $1.35
+Board [9d 7h 4d]
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan (button) folded on the Flop
+Seat 4: 73top (small blind) collected ($25.65)
+Seat 5: EVCalculator (big blind) folded on the Flop
+Seat 8: spzilla folded on the Flop
+Seat 9: taras_kovel folded before Flop (didn't bet)
+
+
+PokerStars Hand #240963933733:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:00:00 ET
+Table 'Kitalpha III' 9-max Seat #4 is the button
+Seat 1: kvitun ($627.50 in chips)
+Seat 2: mr.INSOMNIK ($662.22 in chips)
+Seat 3: elusivebanan ($589.26 in chips)
+Seat 4: 73top ($942.56 in chips)
+Seat 5: EVCalculator ($619.37 in chips)
+Seat 6: RB Tiger ($300 in chips)
+Seat 8: spzilla ($119.98 in chips)
+Seat 9: taras_kovel ($545.93 in chips)
+EVCalculator: posts small blind $2.50
+RB Tiger: posts big blind $5
+Painkiller72: sits out
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+taras_kovel: raises $10 to $15
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: calls $15
+73top: folds
+EVCalculator: folds
+RB Tiger: folds
+*** FLOP *** [5s As Js]
+taras_kovel: bets $12.97
+elusivebanan: folds
+Uncalled bet ($12.97) returned to taras_kovel
+taras_kovel collected $43.22 from pot
+*** SUMMARY ***
+Total pot $45.50 | Rake $2.28
+Board [5s As Js]
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan folded on the Flop
+Seat 4: 73top (button) folded before Flop (didn't bet)
+Seat 5: EVCalculator (small blind) folded before Flop
+Seat 6: RB Tiger (big blind) folded before Flop
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: taras_kovel collected ($43.22)
+
+
+PokerStars Hand #240963945237:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:00:40 ET
+Table 'Kitalpha III' 9-max Seat #5 is the button
+Seat 1: kvitun ($626.50 in chips)
+Seat 2: mr.INSOMNIK ($661.22 in chips)
+Seat 3: elusivebanan ($573.26 in chips)
+Seat 4: 73top ($941.56 in chips)
+Seat 5: EVCalculator ($615.87 in chips)
+Seat 6: RB Tiger ($294 in chips)
+Seat 7: Painkiller72 ($500 in chips)
+Seat 8: spzilla ($118.98 in chips)
+Seat 9: taras_kovel ($573.15 in chips)
+RB Tiger: posts small blind $2.50
+Painkiller72: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: raises $10 to $15
+elusivebanan: folds
+73top: folds
+EVCalculator: folds
+RB Tiger: calls $12.50
+Painkiller72: calls $10
+*** FLOP *** [4c 4s Ah]
+RB Tiger: checks
+Painkiller72: checks
+mr.INSOMNIK: bets $16.93
+RB Tiger: folds
+Painkiller72: calls $16.93
+*** TURN *** [4c 4s Ah] [7s]
+Painkiller72: checks
+mr.INSOMNIK: checks
+*** RIVER *** [4c 4s Ah 7s] [3d]
+Painkiller72: checks
+mr.INSOMNIK: bets $28
+Painkiller72: calls $28
+*** SHOW DOWN ***
+mr.INSOMNIK: shows [Th As] (two pair, Aces and Fours)
+Painkiller72: mucks hand
+mr.INSOMNIK collected $140.86 from pot
+*** SUMMARY ***
+Total pot $143.86 | Rake $3
+Board [4c 4s Ah 7s 3d]
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK showed [Th As] and won ($140.86) with two pair, Aces and Fours
+Seat 3: elusivebanan folded before Flop (didn't bet)
+Seat 4: 73top folded before Flop (didn't bet)
+Seat 5: EVCalculator (button) folded before Flop (didn't bet)
+Seat 6: RB Tiger (small blind) folded on the Flop
+Seat 7: Painkiller72 (big blind) mucked
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: taras_kovel folded before Flop (didn't bet)
+
+
+PokerStars Hand #240963978172:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:02:18 ET
+Table 'Kitalpha III' 9-max Seat #6 is the button
+Seat 1: kvitun ($625.50 in chips)
+Seat 2: mr.INSOMNIK ($741.15 in chips)
+Seat 3: elusivebanan ($572.26 in chips)
+Seat 4: 73top ($940.56 in chips)
+Seat 5: EVCalculator ($614.87 in chips)
+Seat 6: RB Tiger ($278 in chips)
+Seat 7: Painkiller72 ($500 in chips)
+Seat 8: spzilla ($117.98 in chips)
+Seat 9: taras_kovel ($572.15 in chips)
+Painkiller72: posts small blind $2.50
+spzilla: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: folds
+73top: folds
+EVCalculator: folds
+RB Tiger: folds
+Painkiller72: raises $7.50 to $12.50
+spzilla: folds
+Uncalled bet ($7.50) returned to Painkiller72
+Painkiller72 collected $19 from pot
+Painkiller72: doesn't show hand
+*** SUMMARY ***
+Total pot $19 | Rake $0
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan folded before Flop (didn't bet)
+Seat 4: 73top folded before Flop (didn't bet)
+Seat 5: EVCalculator folded before Flop (didn't bet)
+Seat 6: RB Tiger (button) folded before Flop (didn't bet)
+Seat 7: Painkiller72 (small blind) collected ($19)
+Seat 8: spzilla (big blind) folded before Flop
+Seat 9: taras_kovel folded before Flop (didn't bet)
+
+
+PokerStars Hand #240963985413:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:02:39 ET
+Table 'Kitalpha III' 9-max Seat #7 is the button
+Seat 1: kvitun ($624.50 in chips)
+Seat 2: mr.INSOMNIK ($740.15 in chips)
+Seat 3: elusivebanan ($571.26 in chips)
+Seat 4: 73top ($939.56 in chips)
+Seat 5: EVCalculator ($613.87 in chips)
+Seat 6: RB Tiger ($277 in chips)
+Seat 7: Painkiller72 ($513 in chips)
+Seat 8: spzilla ($111.98 in chips)
+Seat 9: taras_kovel ($571.15 in chips)
+spzilla: posts small blind $2.50
+taras_kovel: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: folds
+73top: raises $7.50 to $12.50
+EVCalculator: folds
+RB Tiger: folds
+Painkiller72: folds
+spzilla: calls $10
+taras_kovel: calls $7.50
+*** FLOP *** [2c Qd 3h]
+spzilla: checks
+taras_kovel: checks
+73top: bets $14.58
+spzilla: folds
+taras_kovel: folds
+Uncalled bet ($14.58) returned to 73top
+73top collected $44.18 from pot
+73top: doesn't show hand
+*** SUMMARY ***
+Total pot $46.50 | Rake $2.32
+Board [2c Qd 3h]
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan folded before Flop (didn't bet)
+Seat 4: 73top collected ($44.18)
+Seat 5: EVCalculator folded before Flop (didn't bet)
+Seat 6: RB Tiger folded before Flop (didn't bet)
+Seat 7: Painkiller72 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded on the Flop
+Seat 9: taras_kovel (big blind) folded on the Flop
+
+
+PokerStars Hand #240964002479:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:03:28 ET
+Table 'Kitalpha III' 9-max Seat #8 is the button
+Seat 1: kvitun ($623.50 in chips)
+Seat 2: mr.INSOMNIK ($739.15 in chips)
+Seat 3: elusivebanan ($570.26 in chips)
+Seat 4: 73top ($970.24 in chips)
+Seat 5: EVCalculator ($612.87 in chips)
+Seat 6: RB Tiger ($276 in chips)
+Seat 7: Painkiller72 ($512 in chips)
+Seat 8: spzilla ($98.48 in chips)
+Seat 9: taras_kovel ($557.65 in chips)
+taras_kovel: posts small blind $2.50
+kvitun: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+mr.INSOMNIK: folds
+elusivebanan: folds
+73top: raises $7.50 to $12.50
+EVCalculator: folds
+RB Tiger: folds
+Painkiller72: raises $25 to $37.50
+spzilla: folds
+taras_kovel: folds
+kvitun: folds
+73top: calls $25
+*** FLOP *** [Ac 2c 7c]
+73top: checks
+Painkiller72: bets $29.20
+73top: calls $29.20
+*** TURN *** [Ac 2c 7c] [3s]
+73top: checks
+Painkiller72: checks
+*** RIVER *** [Ac 2c 7c 3s] [6c]
+73top: checks
+Painkiller72: checks
+*** SHOW DOWN ***
+73top: shows [Qh As] (a pair of Aces)
+Painkiller72: mucks hand
+73top collected $146.90 from pot
+*** SUMMARY ***
+Total pot $149.90 | Rake $3
+Board [Ac 2c 7c 3s 6c]
+Seat 1: kvitun (big blind) folded before Flop
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan folded before Flop (didn't bet)
+Seat 4: 73top showed [Qh As] and won ($146.90) with a pair of Aces
+Seat 5: EVCalculator folded before Flop (didn't bet)
+Seat 6: RB Tiger folded before Flop (didn't bet)
+Seat 7: Painkiller72 mucked
+Seat 8: spzilla (button) folded before Flop (didn't bet)
+Seat 9: taras_kovel (small blind) folded before Flop
+
+
+PokerStars Hand #240964034566:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:05:00 ET
+Table 'Kitalpha III' 9-max Seat #9 is the button
+Seat 1: kvitun ($617.50 in chips)
+Seat 2: mr.INSOMNIK ($738.15 in chips)
+Seat 3: elusivebanan ($569.26 in chips)
+Seat 4: 73top ($1049.44 in chips)
+Seat 5: EVCalculator ($611.87 in chips)
+Seat 6: RB Tiger ($275 in chips)
+Seat 7: Painkiller72 ($500 in chips)
+Seat 8: spzilla ($97.48 in chips)
+Seat 9: taras_kovel ($554.15 in chips)
+kvitun: posts small blind $2.50
+mr.INSOMNIK: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+elusivebanan: raises $7.50 to $12.50
+73top: folds
+EVCalculator: folds
+RB Tiger: raises $22.50 to $35
+Painkiller72: folds
+spzilla: folds
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: folds
+Uncalled bet ($22.50) returned to RB Tiger
+RB Tiger collected $41.50 from pot
+*** SUMMARY ***
+Total pot $41.50 | Rake $0
+Seat 1: kvitun (small blind) folded before Flop
+Seat 2: mr.INSOMNIK (big blind) folded before Flop
+Seat 3: elusivebanan folded before Flop
+Seat 4: 73top folded before Flop (didn't bet)
+Seat 5: EVCalculator folded before Flop (didn't bet)
+Seat 6: RB Tiger collected ($41.50)
+Seat 7: Painkiller72 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: taras_kovel (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240964048855:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:05:41 ET
+Table 'Kitalpha III' 9-max Seat #1 is the button
+Seat 1: kvitun ($614 in chips)
+Seat 2: mr.INSOMNIK ($732.15 in chips)
+Seat 3: elusivebanan ($555.76 in chips)
+Seat 4: 73top ($1048.44 in chips)
+Seat 5: EVCalculator ($610.87 in chips)
+Seat 6: RB Tiger ($303 in chips)
+Seat 7: Painkiller72 ($500 in chips)
+Seat 8: spzilla ($96.48 in chips)
+Seat 9: taras_kovel ($553.15 in chips)
+mr.INSOMNIK: posts small blind $2.50
+elusivebanan: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+73top: folds
+EVCalculator: folds
+RB Tiger: folds
+Painkiller72: folds
+spzilla: calls $5
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: checks
+*** FLOP *** [7h 2s 3s]
+elusivebanan: checks
+spzilla: checks
+*** TURN *** [7h 2s 3s] [9s]
+elusivebanan: bets $15.11
+spzilla: calls $15.11
+*** RIVER *** [7h 2s 3s 9s] [Kc]
+elusivebanan: bets $54.35
+spzilla: folds
+Uncalled bet ($54.35) returned to elusivebanan
+elusivebanan collected $49.13 from pot
+elusivebanan: doesn't show hand
+*** SUMMARY ***
+Total pot $51.72 | Rake $2.59
+Board [7h 2s 3s 9s Kc]
+Seat 1: kvitun (button) folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK (small blind) folded before Flop
+Seat 3: elusivebanan (big blind) collected ($49.13)
+Seat 4: 73top folded before Flop (didn't bet)
+Seat 5: EVCalculator folded before Flop (didn't bet)
+Seat 6: RB Tiger folded before Flop (didn't bet)
+Seat 7: Painkiller72 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the River
+Seat 9: taras_kovel folded before Flop (didn't bet)
+
+
+PokerStars Hand #240964064074:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:06:25 ET
+Table 'Kitalpha III' 9-max Seat #2 is the button
+Seat 1: kvitun ($613 in chips)
+Seat 2: mr.INSOMNIK ($728.65 in chips)
+Seat 3: elusivebanan ($583.78 in chips)
+Seat 4: 73top ($1047.44 in chips)
+Seat 5: EVCalculator ($609.87 in chips)
+Seat 6: RB Tiger ($302 in chips)
+Seat 7: Painkiller72 ($500 in chips)
+Seat 8: spzilla ($75.37 in chips)
+Seat 9: taras_kovel ($552.15 in chips)
+elusivebanan: posts small blind $2.50
+73top: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+spzilla: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+EVCalculator: folds
+RB Tiger: folds
+Painkiller72: folds
+spzilla: calls $5
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: raises $15 to $20
+elusivebanan: folds
+73top: folds
+spzilla: raises $54.37 to $74.37 and is all-in
+mr.INSOMNIK: calls $54.37
+*** FLOP *** [Ac 3s Qs]
+*** TURN *** [Ac 3s Qs] [2d]
+*** RIVER *** [Ac 3s Qs 2d] [6h]
+*** SHOW DOWN ***
+spzilla: shows [9s 9h] (a pair of Nines)
+mr.INSOMNIK: shows [Kd Qc] (a pair of Queens)
+mr.INSOMNIK collected $162.24 from pot
+*** SUMMARY ***
+Total pot $165.24 | Rake $3
+Board [Ac 3s Qs 2d 6h]
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK (button) showed [Kd Qc] and won ($162.24) with a pair of Queens
+Seat 3: elusivebanan (small blind) folded before Flop
+Seat 4: 73top (big blind) folded before Flop
+Seat 5: EVCalculator folded before Flop (didn't bet)
+Seat 6: RB Tiger folded before Flop (didn't bet)
+Seat 7: Painkiller72 folded before Flop (didn't bet)
+Seat 8: spzilla showed [9s 9h] and lost with a pair of Nines
+Seat 9: taras_kovel folded before Flop (didn't bet)
+
+
+PokerStars Hand #240964078754:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:07:08 ET
+Table 'Kitalpha III' 9-max Seat #3 is the button
+Seat 1: kvitun ($612 in chips)
+Seat 2: mr.INSOMNIK ($815.52 in chips)
+Seat 3: elusivebanan ($580.28 in chips)
+Seat 4: 73top ($1041.44 in chips)
+Seat 5: EVCalculator ($608.87 in chips)
+Seat 6: RB Tiger ($301 in chips)
+Seat 7: Painkiller72 ($500 in chips)
+Seat 9: taras_kovel ($551.15 in chips)
+73top: posts small blind $2.50
+EVCalculator: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+spzilla leaves the table
+RB Tiger: folds
+Painkiller72: folds
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: raises $7.50 to $12.50
+73top: folds
+EVCalculator: raises $37.50 to $50
+elusivebanan: calls $37.50
+*** FLOP *** [9d Qd 4h]
+EVCalculator: bets $30.10
+elusivebanan: raises $60.10 to $90.20
+EVCalculator: raises $467.67 to $557.87 and is all-in
+elusivebanan: calls $439.08 and is all-in
+Uncalled bet ($28.59) returned to EVCalculator
+*** FIRST TURN *** [9d Qd 4h] [Js]
+*** FIRST RIVER *** [9d Qd 4h Js] [Ah]
+*** SECOND TURN *** [9d Qd 4h] [4d]
+*** SECOND RIVER *** [9d Qd 4h 4d] [9c]
+*** FIRST SHOW DOWN ***
+EVCalculator: shows [Qc Ad] (two pair, Aces and Queens)
+elusivebanan: shows [4c 4s] (three of a kind, Fours)
+elusivebanan collected $583.03 from pot
+*** SECOND SHOW DOWN ***
+EVCalculator: shows [Qc Ad] (two pair, Queens and Nines)
+elusivebanan: shows [4c 4s] (four of a kind, Fours)
+elusivebanan collected $583.03 from pot
+*** SUMMARY ***
+Total pot $1169.06 | Rake $3
+Hand was run twice
+FIRST Board [9d Qd 4h Js Ah]
+SECOND Board [9d Qd 4h 4d 9c]
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan (button) showed [4c 4s] and won ($583.03) with three of a kind, Fours, and won ($583.03) with four of a kind, Fours
+Seat 4: 73top (small blind) folded before Flop
+Seat 5: EVCalculator (big blind) showed [Qc Ad] and lost with two pair, Aces and Queens, and lost with two pair, Queens and Nines
+Seat 6: RB Tiger folded before Flop (didn't bet)
+Seat 7: Painkiller72 folded before Flop (didn't bet)
+Seat 9: taras_kovel folded before Flop (didn't bet)
+
+
+PokerStars Hand #240964108751:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:08:36 ET
+Table 'Kitalpha III' 9-max Seat #4 is the button
+Seat 1: kvitun ($611 in chips)
+Seat 2: mr.INSOMNIK ($814.52 in chips)
+Seat 3: elusivebanan ($1166.06 in chips)
+Seat 4: 73top ($1037.94 in chips)
+Seat 5: EVCalculator ($500 in chips)
+Seat 6: RB Tiger ($300 in chips)
+Seat 7: Painkiller72 ($500 in chips)
+Seat 9: taras_kovel ($550.15 in chips)
+EVCalculator: posts small blind $2.50
+RB Tiger: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+Painkiller72: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+Painkiller72: folds
+taras_kovel: folds
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: folds
+73top: raises $7.50 to $12.50
+EVCalculator: raises $32.50 to $45
+RB Tiger: folds
+73top: folds
+Uncalled bet ($32.50) returned to EVCalculator
+EVCalculator collected $38 from pot
+EVCalculator: doesn't show hand
+*** SUMMARY ***
+Total pot $38 | Rake $0
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan folded before Flop (didn't bet)
+Seat 4: 73top (button) folded before Flop
+Seat 5: EVCalculator (small blind) collected ($38)
+Seat 6: RB Tiger (big blind) folded before Flop
+Seat 7: Painkiller72 folded before Flop (didn't bet)
+Seat 9: taras_kovel folded before Flop (didn't bet)
+
+
+PokerStars Hand #240964116147:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/06 19:08:58 ET
+Table 'Kitalpha III' 9-max Seat #5 is the button
+Seat 1: kvitun ($610 in chips)
+Seat 2: mr.INSOMNIK ($813.52 in chips)
+Seat 3: elusivebanan ($1165.06 in chips)
+Seat 4: 73top ($1024.44 in chips)
+Seat 5: EVCalculator ($524.50 in chips)
+Seat 6: RB Tiger ($294 in chips)
+Seat 9: taras_kovel ($549.15 in chips)
+RB Tiger: posts small blind $2.50
+Painkiller72: is sitting out
+taras_kovel: posts big blind $5
+kvitun: posts the ante $1
+mr.INSOMNIK: posts the ante $1
+elusivebanan: posts the ante $1
+73top: posts the ante $1
+EVCalculator: posts the ante $1
+RB Tiger: posts the ante $1
+taras_kovel: posts the ante $1
+*** HOLE CARDS ***
+kvitun: folds
+mr.INSOMNIK: folds
+elusivebanan: raises $7.50 to $12.50
+Painkiller72 leaves the table
+73top: folds
+EVCalculator: folds
+RB Tiger: folds
+taras_kovel: calls $7.50
+*** FLOP *** [5d 7s Qd]
+taras_kovel: checks
+elusivebanan: checks
+*** TURN *** [5d 7s Qd] [2s]
+taras_kovel: checks
+elusivebanan: checks
+*** RIVER *** [5d 7s Qd 2s] [7c]
+taras_kovel: checks
+elusivebanan: checks
+*** SHOW DOWN ***
+taras_kovel: shows [4h Ah] (a pair of Sevens)
+elusivebanan: mucks hand
+taras_kovel collected $32.78 from pot
+*** SUMMARY ***
+Total pot $34.50 | Rake $1.72
+Board [5d 7s Qd 2s 7c]
+Seat 1: kvitun folded before Flop (didn't bet)
+Seat 2: mr.INSOMNIK folded before Flop (didn't bet)
+Seat 3: elusivebanan mucked
+Seat 4: 73top folded before Flop (didn't bet)
+Seat 5: EVCalculator (button) folded before Flop (didn't bet)
+Seat 6: RB Tiger (small blind) folded before Flop
+Seat 9: taras_kovel (big blind) showed [4h Ah] and won ($32.78) with a pair of Sevens
+
+

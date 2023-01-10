@@ -1,0 +1,5680 @@
+PokerStars Hand #240969710083:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:39:00 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($514.50 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($818.30 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 8: spzilla ($477 in chips)
+Seat 9: pelyatww ($500 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+AlexeSsz: sits out
+PokerStarJ2: sits out
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: calls $5
+pelyatww: raises $15 to $20
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+spzilla: calls $15
+*** FLOP *** [9h 5c 2c]
+spzilla: checks
+pelyatww: checks
+*** TURN *** [9h 5c 2c] [8c]
+spzilla: bets $25.89
+pelyatww: calls $25.89
+*** RIVER *** [9h 5c 2c 8c] [7s]
+spzilla: bets $76.64
+pelyatww: folds
+Uncalled bet ($76.64) returned to spzilla
+spzilla collected $103.28 from pot
+*** SUMMARY ***
+Total pot $106.28 | Rake $3
+Board [9h 5c 2c 8c 7s]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded before Flop
+Seat 8: spzilla collected ($103.28)
+Seat 9: pelyatww folded on the River
+
+
+PokerStars Hand #240969716803:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:39:57 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($513.50 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($814.80 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($500 in chips)
+Seat 8: spzilla ($533.39 in chips)
+Seat 9: pelyatww ($500 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+PokerStarJ2: sits out
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: calls $5
+pelyatww: folds
+kelele45: raises $17.50 to $22.50
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: calls $22.50
+typ6oky3mu4: folds
+AlexeSsz: folds
+spzilla: calls $17.50
+*** FLOP *** [4d 6c Js]
+spzilla: checks
+kelele45: bets $24
+RAidakCo: calls $24
+spzilla: folds
+*** TURN *** [4d 6c Js] [9d]
+kelele45: checks
+RAidakCo: checks
+*** RIVER *** [4d 6c Js 9d] [6h]
+kelele45: checks
+RAidakCo: checks
+*** SHOW DOWN ***
+kelele45: shows [Ad Jh] (two pair, Jacks and Sixes)
+RAidakCo: mucks hand
+kelele45 collected $128 from pot
+*** SUMMARY ***
+Total pot $131 | Rake $3
+Board [4d 6c Js 9d 6h]
+Seat 1: kelele45 showed [Ad Jh] and won ($128) with two pair, Jacks and Sixes
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) mucked
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded before Flop
+Seat 8: spzilla folded on the Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969725189:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:41:09 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($594 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($767.30 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($500 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($509.89 in chips)
+Seat 9: pelyatww ($500 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: folds
+PokerStarJ2: raises $37.50 to $50
+typ6oky3mu4: folds
+Uncalled bet ($37.50) returned to PokerStarJ2
+PokerStarJ2 collected $36.50 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $36.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) collected ($36.50)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969728630:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:41:38 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($593 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($766.30 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($500 in chips)
+Seat 7: PokerStarJ2 ($523 in chips)
+Seat 8: spzilla ($508.89 in chips)
+Seat 9: pelyatww ($500 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $9 to $14
+PokerStarJ2: folds
+spzilla: calls $9
+*** FLOP *** [Ac 5d Th]
+spzilla: checks
+AlexeSsz: checks
+*** TURN *** [Ac 5d Th] [4c]
+spzilla: bets $18.76
+AlexeSsz: calls $18.76
+*** RIVER *** [Ac 5d Th 4c] [8d]
+spzilla: checks
+AlexeSsz: checks
+*** SHOW DOWN ***
+spzilla: shows [Td 7d] (a pair of Tens)
+AlexeSsz: mucks hand
+spzilla collected $74.02 from pot
+*** SUMMARY ***
+Total pot $77.02 | Rake $3
+Board [Ac 5d Th 4c 8d]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) mucked
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) showed [Td 7d] and won ($74.02) with a pair of Tens
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969734766:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:42:30 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($592 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($765.30 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($500 in chips)
+Seat 7: PokerStarJ2 ($519.50 in chips)
+Seat 8: spzilla ($549.15 in chips)
+Seat 9: pelyatww ($500 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $7.50 to $12.50
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Uncalled bet ($7.50) returned to AlexeSsz
+AlexeSsz collected $21.50 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($21.50)
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded before Flop
+Seat 9: pelyatww (big blind) folded before Flop
+
+
+PokerStars Hand #240969738876:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:43:05 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: kelele45 ($591 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($764.30 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($515.50 in chips)
+Seat 7: PokerStarJ2 ($518.50 in chips)
+Seat 8: spzilla ($545.65 in chips)
+Seat 9: pelyatww ($500 in chips)
+pelyatww: posts small blind $2.50
+kelele45: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $12.50
+pelyatww: folds
+kelele45: calls $7.50
+*** FLOP *** [Td As Js]
+kelele45: checks
+typ6oky3mu4: checks
+spzilla: bets $28.28
+kelele45: folds
+typ6oky3mu4: folds
+Uncalled bet ($28.28) returned to spzilla
+spzilla collected $46.55 from pot
+*** SUMMARY ***
+Total pot $49 | Rake $2.45
+Board [Td As Js]
+Seat 1: kelele45 (big blind) folded on the Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded on the Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) collected ($46.55)
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240969744943:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:43:57 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: kelele45 ($577.50 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($763.30 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($514.50 in chips)
+Seat 7: PokerStarJ2 ($517.50 in chips)
+Seat 8: spzilla ($578.70 in chips)
+Seat 9: pelyatww ($500 in chips)
+kelele45: posts small blind $2.50
+ljryviltj: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: calls $11
+AlexeSsz: folds
+PokerStarJ2: raises $44 to $55
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+RAidakCo: calls $44
+typ6oky3mu4: folds
+*** FLOP *** [Ad 4d 5h]
+RAidakCo: checks
+PokerStarJ2: bets $44.39
+RAidakCo: calls $44.39
+*** TURN *** [Ad 4d 5h] [Ts]
+RAidakCo: checks
+PokerStarJ2: bets $113.87
+RAidakCo: folds
+Uncalled bet ($113.87) returned to PokerStarJ2
+PokerStarJ2 collected $223.28 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $226.28 | Rake $3
+Board [Ad 4d 5h Ts]
+Seat 1: kelele45 (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded before Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded on the Turn
+Seat 5: typ6oky3mu4 folded before Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 collected ($223.28)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969752548:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:45:02 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: kelele45 ($574 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($662.91 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($513.50 in chips)
+Seat 7: PokerStarJ2 ($640.39 in chips)
+Seat 8: spzilla ($577.70 in chips)
+Seat 9: pelyatww ($500 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+Uncalled bet ($2.50) returned to oledgyk
+oledgyk collected $14 from pot
+oledgyk: doesn't show hand
+*** SUMMARY ***
+Total pot $14 | Rake $0
+Seat 1: kelele45 (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) collected ($14)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969755029:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:45:23 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: kelele45 ($573 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($510.50 in chips)
+Seat 4: RAidakCo ($661.91 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($512.50 in chips)
+Seat 7: PokerStarJ2 ($639.39 in chips)
+Seat 8: spzilla ($576.70 in chips)
+Seat 9: pelyatww ($500 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+Uncalled bet ($7.55) returned to PokerStarJ2
+PokerStarJ2 collected $21.50 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 collected ($21.50)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969758186:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:45:49 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($572 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($507 in chips)
+Seat 4: RAidakCo ($655.91 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($511.50 in chips)
+Seat 7: PokerStarJ2 ($654.89 in chips)
+Seat 8: spzilla ($575.70 in chips)
+Seat 9: pelyatww ($500 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: calls $7.55
+*** FLOP *** [4c Jh 8c]
+typ6oky3mu4: checks
+PokerStarJ2: checks
+*** TURN *** [4c Jh 8c] [4s]
+typ6oky3mu4: checks
+PokerStarJ2: checks
+*** RIVER *** [4c Jh 8c 4s] [8s]
+typ6oky3mu4: bets $11.47
+PokerStarJ2: calls $11.47
+*** SHOW DOWN ***
+typ6oky3mu4: shows [9d 9h] (two pair, Nines and Eights)
+PokerStarJ2: mucks hand
+typ6oky3mu4 collected $56.56 from pot
+*** SUMMARY ***
+Total pot $59.54 | Rake $2.98
+Board [4c Jh 8c 4s 8s]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) showed [9d 9h] and won ($56.56) with two pair, Nines and Eights
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 mucked
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969764407:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:46:42 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($571 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($506 in chips)
+Seat 4: RAidakCo ($652.41 in chips)
+Seat 5: typ6oky3mu4 ($531.54 in chips)
+Seat 6: AlexeSsz ($510.50 in chips)
+Seat 7: PokerStarJ2 ($629.87 in chips)
+Seat 8: spzilla ($574.70 in chips)
+Seat 9: pelyatww ($500 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: raises $10 to $15
+ljryviltj: raises $30 to $45
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+kelele45: raises $525 to $570 and is all-in
+ljryviltj: folds
+Uncalled bet ($525) returned to kelele45
+kelele45 collected $106.50 from pot
+kelele45: doesn't show hand
+*** SUMMARY ***
+Total pot $106.50 | Rake $0
+Seat 1: kelele45 collected ($106.50)
+Seat 2: ljryviltj folded before Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded before Flop
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969769053:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:47:21 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($631.50 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($505 in chips)
+Seat 4: RAidakCo ($651.41 in chips)
+Seat 5: typ6oky3mu4 ($528.04 in chips)
+Seat 6: AlexeSsz ($504.50 in chips)
+Seat 7: PokerStarJ2 ($628.87 in chips)
+Seat 8: spzilla ($573.70 in chips)
+Seat 9: pelyatww ($500 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+kelele45: raises $10 to $15
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+Uncalled bet ($10) returned to kelele45
+kelele45 collected $21.50 from pot
+kelele45: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 collected ($21.50)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) folded before Flop
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969771193:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:47:40 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($647 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($504 in chips)
+Seat 4: RAidakCo ($650.41 in chips)
+Seat 5: typ6oky3mu4 ($527.04 in chips)
+Seat 6: AlexeSsz ($501 in chips)
+Seat 7: PokerStarJ2 ($622.87 in chips)
+Seat 8: spzilla ($572.70 in chips)
+Seat 9: pelyatww ($500 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $7.50
+*** FLOP *** [5s 3c Qs]
+spzilla: checks
+typ6oky3mu4: checks
+*** TURN *** [5s 3c Qs] [Jh]
+spzilla: checks
+typ6oky3mu4: bets $11.44
+spzilla: calls $11.44
+*** RIVER *** [5s 3c Qs Jh] [Kc]
+spzilla: checks
+typ6oky3mu4: checks
+*** SHOW DOWN ***
+spzilla: shows [Qd Qh] (three of a kind, Queens)
+typ6oky3mu4: mucks hand
+spzilla collected $56.41 from pot
+*** SUMMARY ***
+Total pot $59.38 | Rake $2.97
+Board [5s 3c Qs Jh Kc]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 mucked
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) showed [Qd Qh] and won ($56.41) with three of a kind, Queens
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969777066:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:48:29 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($646 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($503 in chips)
+Seat 4: RAidakCo ($649.41 in chips)
+Seat 5: typ6oky3mu4 ($502.10 in chips)
+Seat 6: AlexeSsz ($500 in chips)
+Seat 7: PokerStarJ2 ($619.37 in chips)
+Seat 8: spzilla ($604.17 in chips)
+Seat 9: pelyatww ($500 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+kelele45: raises $10 to $15
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: calls $15
+spzilla: calls $12.50
+pelyatww: folds
+*** FLOP *** [9c 2c 3s]
+spzilla: checks
+kelele45: bets $42.04
+PokerStarJ2: folds
+spzilla: folds
+Uncalled bet ($42.04) returned to kelele45
+kelele45 collected $56.05 from pot
+kelele45: doesn't show hand
+*** SUMMARY ***
+Total pot $59 | Rake $2.95
+Board [9c 2c 3s]
+Seat 1: kelele45 collected ($56.05)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) folded on the Flop
+Seat 8: spzilla (small blind) folded on the Flop
+Seat 9: pelyatww (big blind) folded before Flop
+
+
+PokerStars Hand #240969781704:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:49:09 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: kelele45 ($686.05 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($502 in chips)
+Seat 4: RAidakCo ($648.41 in chips)
+Seat 5: typ6oky3mu4 ($501.10 in chips)
+Seat 6: AlexeSsz ($500 in chips)
+Seat 7: PokerStarJ2 ($603.37 in chips)
+Seat 8: spzilla ($588.17 in chips)
+Seat 9: pelyatww ($500 in chips)
+pelyatww: posts small blind $2.50
+kelele45: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+pelyatww: folds
+kelele45: raises $57.45 to $70
+PokerStarJ2: folds
+spzilla: calls $57.45
+*** FLOP *** [5d 3d Ad]
+kelele45: bets $48.32
+spzilla: calls $48.32
+*** TURN *** [5d 3d Ad] [5c]
+kelele45: bets $77.31
+spzilla: calls $77.31
+*** RIVER *** [5d 3d Ad 5c] [8s]
+kelele45: checks
+spzilla: bets $105
+kelele45: folds
+Uncalled bet ($105) returned to spzilla
+spzilla collected $412.31 from pot
+*** SUMMARY ***
+Total pot $415.31 | Rake $3
+Board [5d 3d Ad 5c 8s]
+Seat 1: kelele45 (big blind) folded on the River
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop
+Seat 8: spzilla (button) collected ($412.31)
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240969790734:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:50:25 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($501 in chips)
+Seat 4: RAidakCo ($647.41 in chips)
+Seat 5: typ6oky3mu4 ($500.10 in chips)
+Seat 6: AlexeSsz ($500 in chips)
+Seat 7: PokerStarJ2 ($589.82 in chips)
+Seat 8: spzilla ($803.85 in chips)
+Seat 9: pelyatww ($500 in chips)
+kelele45: posts small blind $2.50
+ljryviltj: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $6.25 to $11.25
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+Uncalled bet ($6.25) returned to AlexeSsz
+AlexeSsz collected $21.50 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded before Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($21.50)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969793051:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:50:44 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($646.41 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($515.50 in chips)
+Seat 7: PokerStarJ2 ($588.82 in chips)
+Seat 8: spzilla ($802.85 in chips)
+Seat 9: pelyatww ($500 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: raises $6 to $11
+typ6oky3mu4: calls $11
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $11
+pelyatww: folds
+kelele45: folds
+ljryviltj: calls $8.50
+oledgyk: folds
+*** FLOP *** [Kc Jh 5d]
+ljryviltj: checks
+RAidakCo: bets $16.53
+typ6oky3mu4: folds
+spzilla: folds
+ljryviltj: folds
+Uncalled bet ($16.53) returned to RAidakCo
+RAidakCo collected $55.10 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $58 | Rake $2.90
+Board [Kc Jh 5d]
+Seat 1: kelele45 (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded on the Flop
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo collected ($55.10)
+Seat 5: typ6oky3mu4 folded on the Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969796892:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:51:16 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($689.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($514.50 in chips)
+Seat 7: PokerStarJ2 ($587.82 in chips)
+Seat 8: spzilla ($790.85 in chips)
+Seat 9: pelyatww ($500 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: calls $2.50
+RAidakCo: checks
+*** FLOP *** [Ah Jc 6c]
+oledgyk: bets $10
+RAidakCo: folds
+spzilla: calls $10
+*** TURN *** [Ah Jc 6c] [2c]
+oledgyk: checks
+spzilla: checks
+*** RIVER *** [Ah Jc 6c 2c] [Ad]
+oledgyk: checks
+spzilla: checks
+*** SHOW DOWN ***
+oledgyk: shows [As 4s] (three of a kind, Aces)
+spzilla: mucks hand
+oledgyk collected $41.80 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $2.20
+Board [Ah Jc 6c 2c Ad]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) showed [As 4s] and won ($41.80) with three of a kind, Aces
+Seat 4: RAidakCo (big blind) folded on the Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla mucked
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969803524:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:52:11 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($525.80 in chips)
+Seat 4: RAidakCo ($683.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($513.50 in chips)
+Seat 7: PokerStarJ2 ($586.82 in chips)
+Seat 8: spzilla ($774.85 in chips)
+Seat 9: pelyatww ($500 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+*** FLOP *** [7d 4c Qc]
+PokerStarJ2: bets $26.08
+spzilla: folds
+Uncalled bet ($26.08) returned to PokerStarJ2
+PokerStarJ2 collected $39.52 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $41.60 | Rake $2.08
+Board [7d 4c Qc]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded before Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 collected ($39.52)
+Seat 8: spzilla folded on the Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969808803:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:52:57 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($524.80 in chips)
+Seat 4: RAidakCo ($680.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($512.50 in chips)
+Seat 7: PokerStarJ2 ($612.79 in chips)
+Seat 8: spzilla ($761.30 in chips)
+Seat 9: pelyatww ($500 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: calls $7.55
+*** FLOP *** [5d 5c Kc]
+AlexeSsz: checks
+PokerStarJ2: bets $15.41
+spzilla: calls $15.41
+AlexeSsz: calls $15.41
+*** TURN *** [5d 5c Kc] [9h]
+AlexeSsz: checks
+PokerStarJ2: bets $69.28
+spzilla: folds
+AlexeSsz: calls $69.28
+*** RIVER *** [5d 5c Kc 9h] [9c]
+AlexeSsz: bets $173.21
+PokerStarJ2: raises $341.34 to $514.55 and is all-in
+AlexeSsz: calls $241.05 and is all-in
+Uncalled bet ($100.29) returned to PokerStarJ2
+*** SHOW DOWN ***
+PokerStarJ2: shows [Ac Kd] (two pair, Kings and Nines)
+AlexeSsz: shows [9d Ks] (a full house, Nines full of Kings)
+AlexeSsz collected $1059.46 from pot
+*** SUMMARY ***
+Total pot $1062.46 | Rake $3
+Board [5d 5c Kc 9h 9c]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) showed [9d Ks] and won ($1059.46) with a full house, Nines full of Kings
+Seat 7: PokerStarJ2 showed [Ac Kd] and lost with two pair, Kings and Nines
+Seat 8: spzilla folded on the Turn
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969817157:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:54:07 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($523.80 in chips)
+Seat 4: RAidakCo ($679.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1059.46 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($732.34 in chips)
+Seat 9: pelyatww ($500 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+PokerStarJ2 said, "ok idiota"
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $38.50 to $49.50
+RAidakCo: folds
+Uncalled bet ($38.50) returned to PokerStarJ2
+PokerStarJ2 collected $33.50 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $33.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) collected ($33.50)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969821500:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:54:44 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($522.80 in chips)
+Seat 4: RAidakCo ($667.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1055.96 in chips)
+Seat 7: PokerStarJ2 ($521.50 in chips)
+Seat 8: spzilla ($731.34 in chips)
+Seat 9: pelyatww ($500 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+Uncalled bet ($2.50) returned to spzilla
+spzilla collected $14 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) collected ($14)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969825489:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:55:19 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($521.80 in chips)
+Seat 4: RAidakCo ($666.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1054.96 in chips)
+Seat 7: PokerStarJ2 ($518 in chips)
+Seat 8: spzilla ($741.84 in chips)
+Seat 9: pelyatww ($500 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+kelele45: raises $10 to $15
+ljryviltj: folds
+oledgyk: raises $35 to $50
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $47.50
+pelyatww: folds
+kelele45: calls $35
+*** FLOP *** [6c 9c 7c]
+spzilla: checks
+kelele45: checks
+oledgyk: checks
+*** TURN *** [6c 9c 7c] [Ts]
+spzilla: checks
+kelele45: bets $48.30
+oledgyk: folds
+spzilla: folds
+Uncalled bet ($48.30) returned to kelele45
+kelele45 collected $161 from pot
+kelele45: doesn't show hand
+*** SUMMARY ***
+Total pot $164 | Rake $3
+Board [6c 9c 7c Ts]
+Seat 1: kelele45 collected ($161)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded on the Turn
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded on the Turn
+Seat 9: pelyatww (big blind) folded before Flop
+
+
+PokerStars Hand #240969833416:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:56:34 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: kelele45 ($610 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($665.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1053.96 in chips)
+Seat 7: PokerStarJ2 ($517 in chips)
+Seat 8: spzilla ($690.84 in chips)
+Seat 9: pelyatww ($500 in chips)
+pelyatww: posts small blind $2.50
+kelele45: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $11
+pelyatww: folds
+kelele45: raises $64 to $75
+RAidakCo: folds
+spzilla: folds
+Uncalled bet ($64) returned to kelele45
+kelele45 collected $44.50 from pot
+kelele45: doesn't show hand
+*** SUMMARY ***
+Total pot $44.50 | Rake $0
+Seat 1: kelele45 (big blind) collected ($44.50)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) folded before Flop
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240969836461:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:57:04 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: kelele45 ($642.50 in chips)
+Seat 2: ljryviltj ($500 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($653.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1052.96 in chips)
+Seat 7: PokerStarJ2 ($516 in chips)
+Seat 8: spzilla ($678.84 in chips)
+Seat 9: pelyatww ($500 in chips)
+kelele45: posts small blind $2.50
+ljryviltj: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: folds
+PokerStarJ2: calls $12.50
+spzilla: calls $12.50
+pelyatww: calls $12.50
+kelele45: folds
+ljryviltj: raises $67.50 to $80
+typ6oky3mu4: folds
+PokerStarJ2: folds
+spzilla: calls $67.50
+pelyatww: folds
+*** FLOP *** [2d 4s Kh]
+ljryviltj: checks
+spzilla: checks
+*** TURN *** [2d 4s Kh] [8h]
+ljryviltj: bets $80
+spzilla: calls $80
+*** RIVER *** [2d 4s Kh 8h] [8s]
+ljryviltj: bets $339 and is all-in
+spzilla: folds
+Uncalled bet ($339) returned to ljryviltj
+ljryviltj collected $366 from pot
+ljryviltj: doesn't show hand
+*** SUMMARY ***
+Total pot $369 | Rake $3
+Board [2d 4s Kh 8h 8s]
+Seat 1: kelele45 (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) collected ($366)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop
+Seat 8: spzilla folded on the River
+Seat 9: pelyatww (button) folded before Flop
+
+
+PokerStars Hand #240969844907:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:58:22 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: kelele45 ($639 in chips)
+Seat 2: ljryviltj ($705 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($652.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1051.96 in chips)
+Seat 7: PokerStarJ2 ($502.50 in chips)
+Seat 8: spzilla ($517.84 in chips)
+Seat 9: pelyatww ($500 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+kelele45: folds
+ljryviltj: raises $17.50 to $22.50
+oledgyk: folds
+spzilla: calls $17.50
+*** FLOP *** [5s 5h 2h]
+ljryviltj: bets $20
+spzilla: calls $20
+*** TURN *** [5s 5h 2h] [9s]
+ljryviltj: checks
+spzilla: bets $48
+ljryviltj: folds
+Uncalled bet ($48) returned to spzilla
+spzilla collected $96 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $3
+Board [5s 5h 2h 9s]
+Seat 1: kelele45 (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded on the Turn
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla collected ($96)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969848954:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:59:00 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: kelele45 ($638 in chips)
+Seat 2: ljryviltj ($661.50 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($651.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1050.96 in chips)
+Seat 7: PokerStarJ2 ($501.50 in chips)
+Seat 8: spzilla ($570.34 in chips)
+Seat 9: pelyatww ($500 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: raises $12.50 to $17.50
+RAidakCo: folds
+Uncalled bet ($12.50) returned to oledgyk
+oledgyk collected $19 from pot
+oledgyk: doesn't show hand
+*** SUMMARY ***
+Total pot $19 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) collected ($19)
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969852004:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 2:59:28 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($637 in chips)
+Seat 2: ljryviltj ($660.50 in chips)
+Seat 3: oledgyk ($513 in chips)
+Seat 4: RAidakCo ($645.01 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1049.96 in chips)
+Seat 7: PokerStarJ2 ($500.50 in chips)
+Seat 8: spzilla ($569.34 in chips)
+Seat 9: pelyatww ($500 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: raises $15 to $20
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+spzilla: calls $15
+*** FLOP *** [4c 3h 8h]
+spzilla: checks
+pelyatww: bets $26.84
+spzilla: calls $26.84
+*** TURN *** [4c 3h 8h] [Jc]
+spzilla: checks
+pelyatww: bets $70.70
+spzilla: folds
+Uncalled bet ($70.70) returned to pelyatww
+pelyatww collected $107.18 from pot
+*** SUMMARY ***
+Total pot $110.18 | Rake $3
+Board [4c 3h 8h Jc]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded before Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the Turn
+Seat 9: pelyatww collected ($107.18)
+
+
+PokerStars Hand #240969857865:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:00:22 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($636 in chips)
+Seat 2: ljryviltj ($659.50 in chips)
+Seat 3: oledgyk ($512 in chips)
+Seat 4: RAidakCo ($641.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1048.96 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($521.50 in chips)
+Seat 9: pelyatww ($559.34 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $7.50 to $12.50
+typ6oky3mu4: folds
+AlexeSsz: raises $47.50 to $60
+RAidakCo: calls $47.50
+*** FLOP *** [9c Ah Ks]
+AlexeSsz: bets $42.41
+RAidakCo: folds
+Uncalled bet ($42.41) returned to AlexeSsz
+AlexeSsz collected $128.50 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $131.50 | Rake $3
+Board [9c Ah Ks]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded on the Flop
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) collected ($128.50)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969862678:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:01:03 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($635 in chips)
+Seat 2: ljryviltj ($658.50 in chips)
+Seat 3: oledgyk ($511 in chips)
+Seat 4: RAidakCo ($580.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1116.46 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($520.50 in chips)
+Seat 9: pelyatww ($558.34 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: calls $5
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $20 to $25
+PokerStarJ2: raises $50 to $75
+spzilla: folds
+AlexeSsz: folds
+Uncalled bet ($50) returned to PokerStarJ2
+PokerStarJ2 collected $64 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $64 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) collected ($64)
+Seat 8: spzilla folded before Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969867493:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:01:45 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($634 in chips)
+Seat 2: ljryviltj ($657.50 in chips)
+Seat 3: oledgyk ($510 in chips)
+Seat 4: RAidakCo ($579.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1090.46 in chips)
+Seat 7: PokerStarJ2 ($538 in chips)
+Seat 8: spzilla ($514.50 in chips)
+Seat 9: pelyatww ($557.34 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: raises $7.50 to $12.50
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: calls $12.50
+PokerStarJ2: folds
+spzilla: calls $7.50
+*** FLOP *** [Tc 4c 9s]
+spzilla: checks
+pelyatww: bets $15.35
+AlexeSsz: calls $15.35
+spzilla: calls $15.35
+*** TURN *** [Tc 4c 9s] [Qd]
+spzilla: checks
+pelyatww: checks
+AlexeSsz: checks
+*** RIVER *** [Tc 4c 9s Qd] [Kh]
+spzilla: checks
+pelyatww: checks
+AlexeSsz: bets $69.04
+spzilla: folds
+pelyatww: calls $69.04
+*** SHOW DOWN ***
+AlexeSsz: shows [4d 5d] (a pair of Fours)
+pelyatww: shows [Kd Ks] (three of a kind, Kings)
+pelyatww collected $230.13 from pot
+*** SUMMARY ***
+Total pot $233.13 | Rake $3
+Board [Tc 4c 9s Qd Kh]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) showed [4d 5d] and lost with a pair of Fours
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) folded on the River
+Seat 9: pelyatww showed [Kd Ks] and won ($230.13) with three of a kind, Kings
+
+
+PokerStars Hand #240969877796:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:03:11 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($633 in chips)
+Seat 2: ljryviltj ($656.50 in chips)
+Seat 3: oledgyk ($509 in chips)
+Seat 4: RAidakCo ($578.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($992.57 in chips)
+Seat 7: PokerStarJ2 ($534.50 in chips)
+Seat 8: spzilla ($485.65 in chips)
+Seat 9: pelyatww ($689.58 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+Uncalled bet ($2.50) returned to pelyatww
+pelyatww collected $14 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded before Flop
+Seat 9: pelyatww (big blind) collected ($14)
+
+
+PokerStars Hand #240969880186:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:03:30 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: kelele45 ($632 in chips)
+Seat 2: ljryviltj ($655.50 in chips)
+Seat 3: oledgyk ($508 in chips)
+Seat 4: RAidakCo ($577.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($991.57 in chips)
+Seat 7: PokerStarJ2 ($533.50 in chips)
+Seat 8: spzilla ($482.15 in chips)
+Seat 9: pelyatww ($700.08 in chips)
+pelyatww: posts small blind $2.50
+kelele45: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: raises $7.50 to $12.50
+oledgyk: calls $12.50
+RAidakCo: folds
+typ6oky3mu4: calls $12.50
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $12.50
+pelyatww: folds
+kelele45: calls $7.50
+*** FLOP *** [2c 3d Qd]
+kelele45: checks
+ljryviltj: checks
+oledgyk: checks
+typ6oky3mu4: checks
+spzilla: bets $35.50
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+typ6oky3mu4: calls $35.50
+*** TURN *** [2c 3d Qd] [5d]
+typ6oky3mu4: checks
+spzilla: bets $86
+typ6oky3mu4: folds
+Uncalled bet ($86) returned to spzilla
+spzilla collected $142 from pot
+*** SUMMARY ***
+Total pot $145 | Rake $3
+Board [2c 3d Qd 5d]
+Seat 1: kelele45 (big blind) folded on the Flop
+Seat 2: ljryviltj folded on the Flop
+Seat 3: oledgyk folded on the Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded on the Turn
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) collected ($142)
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240969889554:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:04:49 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: kelele45 ($618.50 in chips)
+Seat 2: ljryviltj ($642 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($576.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($990.57 in chips)
+Seat 7: PokerStarJ2 ($532.50 in chips)
+Seat 8: spzilla ($575.15 in chips)
+Seat 9: pelyatww ($696.58 in chips)
+kelele45: posts small blind $2.50
+ljryviltj: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+kelele45: raises $20 to $25
+ljryviltj: folds
+spzilla: calls $20
+*** FLOP *** [Kd 3h 3d]
+kelele45: bets $18.30
+spzilla: calls $18.30
+*** TURN *** [Kd 3h 3d] [8c]
+kelele45: checks
+spzilla: bets $48.80
+kelele45: folds
+Uncalled bet ($48.80) returned to spzilla
+spzilla collected $97.60 from pot
+*** SUMMARY ***
+Total pot $100.60 | Rake $3
+Board [Kd 3h 3d 8c]
+Seat 1: kelele45 (small blind) folded on the Turn
+Seat 2: ljryviltj (big blind) folded before Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla collected ($97.60)
+Seat 9: pelyatww (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969894757:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:05:32 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: kelele45 ($574.20 in chips)
+Seat 2: ljryviltj ($636 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($575.51 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($989.57 in chips)
+Seat 7: PokerStarJ2 ($531.50 in chips)
+Seat 8: spzilla ($628.45 in chips)
+Seat 9: pelyatww ($695.58 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $11
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+*** FLOP *** [Jd 9s Jc]
+RAidakCo: bets $10.97
+spzilla: calls $10.97
+*** TURN *** [Jd 9s Jc] [Ad]
+RAidakCo: checks
+spzilla: checks
+*** RIVER *** [Jd 9s Jc Ad] [Ac]
+RAidakCo: bets $43.08
+spzilla: folds
+Uncalled bet ($43.08) returned to RAidakCo
+RAidakCo collected $57.44 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $60.44 | Rake $3
+Board [Jd 9s Jc Ad Ac]
+Seat 1: kelele45 (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo collected ($57.44)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the River
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969901190:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:06:25 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: kelele45 ($573.20 in chips)
+Seat 2: ljryviltj ($632.50 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($609.98 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($988.57 in chips)
+Seat 7: PokerStarJ2 ($530.50 in chips)
+Seat 8: spzilla ($605.48 in chips)
+Seat 9: pelyatww ($694.58 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: raises $25 to $37.50
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+Uncalled bet ($25) returned to AlexeSsz
+AlexeSsz collected $41.50 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $41.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop
+Seat 6: AlexeSsz collected ($41.50)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969905820:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:07:03 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($572.20 in chips)
+Seat 2: ljryviltj ($631.50 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($603.98 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1016.57 in chips)
+Seat 7: PokerStarJ2 ($529.50 in chips)
+Seat 8: spzilla ($604.48 in chips)
+Seat 9: pelyatww ($693.58 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+pelyatww: folds
+kelele45: folds
+ljryviltj: calls $12.55
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: calls $7.55
+*** FLOP *** [6d 7h 9s]
+typ6oky3mu4: checks
+PokerStarJ2: checks
+spzilla: checks
+ljryviltj: bets $35
+typ6oky3mu4: folds
+PokerStarJ2: calls $35
+spzilla: folds
+*** TURN *** [6d 7h 9s] [7s]
+PokerStarJ2: checks
+ljryviltj: bets $90
+PokerStarJ2: folds
+Uncalled bet ($90) returned to ljryviltj
+ljryviltj collected $128.70 from pot
+ljryviltj: doesn't show hand
+*** SUMMARY ***
+Total pot $131.70 | Rake $3
+Board [6d 7h 9s 7s]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj collected ($128.70)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded on the Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded on the Turn
+Seat 8: spzilla folded on the Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969915349:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:08:21 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($571.20 in chips)
+Seat 2: ljryviltj ($711.65 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($600.48 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1015.57 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($590.93 in chips)
+Seat 9: pelyatww ($692.58 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: raises $10 to $15
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+Uncalled bet ($10) returned to kelele45
+kelele45 collected $21.50 from pot
+kelele45: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 collected ($21.50)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded before Flop
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969918232:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:08:45 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($586.70 in chips)
+Seat 2: ljryviltj ($710.65 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($599.48 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1009.57 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($589.93 in chips)
+Seat 9: pelyatww ($691.58 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+Uncalled bet ($6) returned to RAidakCo
+RAidakCo collected $21.50 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo collected ($21.50)
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) folded before Flop
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969923239:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:09:27 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($585.70 in chips)
+Seat 2: ljryviltj ($709.65 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($614.98 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1006.07 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($588.93 in chips)
+Seat 9: pelyatww ($690.58 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+Uncalled bet ($6) returned to RAidakCo
+RAidakCo collected $21.50 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo collected ($21.50)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) folded before Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240969926777:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:09:56 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($584.70 in chips)
+Seat 2: ljryviltj ($708.65 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($630.48 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1005.07 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($582.93 in chips)
+spzilla: posts small blind $2.50
+kelele45: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $8.50
+kelele45: folds
+*** FLOP *** [7c 8h Th]
+spzilla: checks
+RAidakCo: bets $9.98
+spzilla: calls $9.98
+*** TURN *** [7c 8h Th] [Jd]
+spzilla: checks
+RAidakCo: bets $39.16
+spzilla: raises $39.16 to $78.32
+RAidakCo: calls $39.16
+*** RIVER *** [7c 8h Th Jd] [7h]
+spzilla: bets $65
+RAidakCo: folds
+Uncalled bet ($65) returned to spzilla
+spzilla collected $208.60 from pot
+*** SUMMARY ***
+Total pot $211.60 | Rake $3
+Board [7c 8h Th Jd 7h]
+Seat 1: kelele45 (big blind) folded before Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded on the River
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) collected ($208.60)
+
+
+PokerStars Hand #240969936257:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:11:13 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: kelele45 ($578.70 in chips)
+Seat 2: ljryviltj ($707.65 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($530.18 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1004.07 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($691.23 in chips)
+kelele45: posts small blind $2.50
+ljryviltj: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+kelele45: folds
+ljryviltj: folds
+*** FLOP *** [5c 7d Qc]
+PokerStarJ2: bets $12.73
+spzilla: calls $12.73
+*** TURN *** [5c 7d Qc] [Ac]
+PokerStarJ2: bets $47.30
+spzilla: folds
+Uncalled bet ($47.30) returned to PokerStarJ2
+PokerStarJ2 collected $63.06 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $66.06 | Rake $3
+Board [5c 7d Qc Ac]
+Seat 1: kelele45 (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded before Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 collected ($63.06)
+Seat 8: spzilla (button) folded on the Turn
+
+
+PokerStars Hand #240969940619:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:11:49 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: kelele45 ($575.20 in chips)
+Seat 2: ljryviltj ($701.65 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($529.18 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1003.07 in chips)
+Seat 7: PokerStarJ2 ($536.78 in chips)
+Seat 8: spzilla ($664.95 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+kelele45: folds
+ljryviltj: folds
+oledgyk: checks
+*** FLOP *** [5h 9h 4s]
+oledgyk: bets $7.50
+spzilla: calls $7.50
+*** TURN *** [5h 9h 4s] [7c]
+oledgyk: checks
+spzilla: checks
+*** RIVER *** [5h 9h 4s 7c] [7h]
+oledgyk: checks
+spzilla: bets $15
+oledgyk: calls $15
+*** SHOW DOWN ***
+spzilla: shows [8d Jc] (a pair of Sevens)
+oledgyk: shows [3c 5c] (two pair, Sevens and Fives)
+oledgyk collected $62.50 from pot
+*** SUMMARY ***
+Total pot $65.50 | Rake $3
+Board [5h 9h 4s 7c 7h]
+Seat 1: kelele45 (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) showed [3c 5c] and won ($62.50) with two pair, Sevens and Fives
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla showed [8d Jc] and lost with a pair of Sevens
+
+
+PokerStars Hand #240969946518:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:12:37 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: kelele45 ($574.20 in chips)
+Seat 2: ljryviltj ($698.15 in chips)
+Seat 3: oledgyk ($534 in chips)
+Seat 4: RAidakCo ($528.18 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1002.07 in chips)
+Seat 7: PokerStarJ2 ($535.78 in chips)
+Seat 8: spzilla ($636.45 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+kelele45: folds
+ljryviltj: folds
+oledgyk: raises $23 to $28
+RAidakCo: folds
+spzilla: calls $23
+*** FLOP *** [5h 3c Th]
+oledgyk: bets $20
+spzilla: raises $30 to $50
+oledgyk: calls $30
+*** TURN *** [5h 3c Th] [Js]
+oledgyk: checks
+spzilla: checks
+*** RIVER *** [5h 3c Th Js] [Td]
+oledgyk: checks
+spzilla: checks
+*** SHOW DOWN ***
+oledgyk: shows [Ad Ks] (a pair of Tens)
+spzilla: shows [7c 7h] (two pair, Tens and Sevens)
+spzilla collected $166 from pot
+*** SUMMARY ***
+Total pot $169 | Rake $3
+Board [5h 3c Th Js Td]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) showed [Ad Ks] and lost with a pair of Tens
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla showed [7c 7h] and won ($166) with two pair, Tens and Sevens
+
+
+PokerStars Hand #240969957682:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:14:08 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($573.20 in chips)
+Seat 2: ljryviltj ($697.15 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($522.18 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1001.07 in chips)
+Seat 7: PokerStarJ2 ($534.78 in chips)
+Seat 8: spzilla ($723.45 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+kelele45: folds
+ljryviltj: folds
+oledgyk: calls $5
+RAidakCo: folds
+typ6oky3mu4: checks
+*** FLOP *** [Ts Qc Kd]
+typ6oky3mu4: checks
+spzilla: bets $5
+oledgyk: folds
+typ6oky3mu4: folds
+Uncalled bet ($5) returned to spzilla
+spzilla collected $24.22 from pot
+*** SUMMARY ***
+Total pot $25.50 | Rake $1.28
+Board [Ts Qc Kd]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded on the Flop
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded on the Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla collected ($24.22)
+
+
+PokerStars Hand #240969960761:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:14:34 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($572.20 in chips)
+Seat 2: ljryviltj ($696.15 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($518.68 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1000.07 in chips)
+Seat 7: PokerStarJ2 ($533.78 in chips)
+Seat 8: spzilla ($741.67 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+*** FLOP *** [Qd 4h Ts]
+PokerStarJ2: bets $12.73
+spzilla: raises $32.02 to $44.75
+PokerStarJ2: calls $32.02
+*** TURN *** [Qd 4h Ts] [9d]
+PokerStarJ2: checks
+spzilla: checks
+*** RIVER *** [Qd 4h Ts 9d] [9s]
+PokerStarJ2: checks
+spzilla: bets $78.55
+PokerStarJ2: folds
+Uncalled bet ($78.55) returned to spzilla
+spzilla collected $127.10 from pot
+*** SUMMARY ***
+Total pot $130.10 | Rake $3
+Board [Qd 4h Ts 9d 9s]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded before Flop
+Seat 7: PokerStarJ2 folded on the River
+Seat 8: spzilla collected ($127.10)
+
+
+PokerStars Hand #240969968344:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:15:35 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($571.20 in chips)
+Seat 2: ljryviltj ($695.15 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($517.68 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($994.07 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($810.47 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+spzilla: calls $5
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: calls $2.50
+PokerStarJ2: checks
+*** FLOP *** [7h Td 9d]
+AlexeSsz: checks
+PokerStarJ2: checks
+spzilla: bets $10.93
+AlexeSsz: folds
+PokerStarJ2: folds
+Uncalled bet ($10.93) returned to spzilla
+spzilla collected $21.85 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $1.15
+Board [7h Td 9d]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) folded on the Flop
+Seat 7: PokerStarJ2 (big blind) folded on the Flop
+Seat 8: spzilla collected ($21.85)
+
+
+PokerStars Hand #240969972909:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:16:13 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($570.20 in chips)
+Seat 2: ljryviltj ($694.15 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($516.68 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($988.07 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($826.32 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+*** HOLE CARDS ***
+kelele45: folds
+ljryviltj: raises $7.50 to $12.50
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $7.50
+*** FLOP *** [4d Jh As]
+spzilla: checks
+ljryviltj: bets $16.86
+spzilla: folds
+Uncalled bet ($16.86) returned to ljryviltj
+ljryviltj collected $33.72 from pot
+ljryviltj: doesn't show hand
+*** SUMMARY ***
+Total pot $35.50 | Rake $1.78
+Board [4d Jh As]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj collected ($33.72)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) folded on the Flop
+
+
+PokerStars Hand #240969976694:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:16:44 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($569.20 in chips)
+Seat 2: ljryviltj ($714.37 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($515.68 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($987.07 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($812.82 in chips)
+Seat 9: pelyatww ($689.58 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+kelele45: folds
+ljryviltj: folds
+oledgyk: raises $10 to $15
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: calls $15
+spzilla: calls $12.50
+pelyatww: folds
+*** FLOP *** [Kd 6d 5d]
+spzilla: checks
+oledgyk: bets $17.50
+PokerStarJ2: folds
+spzilla: calls $17.50
+*** TURN *** [Kd 6d 5d] [6c]
+spzilla: checks
+oledgyk: checks
+*** RIVER *** [Kd 6d 5d 6c] [Th]
+spzilla: bets $25
+oledgyk: calls $25
+*** SHOW DOWN ***
+spzilla: shows [9c 7c] (a pair of Sixes)
+oledgyk: shows [8s 8c] (two pair, Eights and Sixes)
+oledgyk collected $141 from pot
+*** SUMMARY ***
+Total pot $144 | Rake $3
+Board [Kd 6d 5d 6c Th]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk showed [8s 8c] and won ($141) with two pair, Eights and Sixes
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) folded on the Flop
+Seat 8: spzilla (small blind) showed [9c 7c] and lost with a pair of Sixes
+Seat 9: pelyatww (big blind) folded before Flop
+
+
+PokerStars Hand #240969988254:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:18:17 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: kelele45 ($568.20 in chips)
+Seat 2: ljryviltj ($713.37 in chips)
+Seat 3: oledgyk ($582.50 in chips)
+Seat 4: RAidakCo ($514.68 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($986.07 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($754.32 in chips)
+Seat 9: pelyatww ($683.58 in chips)
+pelyatww: posts small blind $2.50
+kelele45: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $7.50 to $12.50
+PokerStarJ2: folds
+spzilla: calls $12.50
+pelyatww: folds
+kelele45: raises $57.50 to $70
+AlexeSsz: calls $57.50
+spzilla: calls $57.50
+*** FLOP *** [7c 9h Kh]
+kelele45: bets $45
+AlexeSsz: raises $147.50 to $192.50
+spzilla: folds
+kelele45: folds
+Uncalled bet ($147.50) returned to AlexeSsz
+AlexeSsz collected $308.50 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $311.50 | Rake $3
+Board [7c 9h Kh]
+Seat 1: kelele45 (big blind) folded on the Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($308.50)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) folded on the Flop
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240969995382:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:19:15 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($712.37 in chips)
+Seat 3: oledgyk ($581.50 in chips)
+Seat 4: RAidakCo ($513.68 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1178.57 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($683.32 in chips)
+Seat 9: pelyatww ($680.08 in chips)
+kelele45: posts small blind $2.50
+ljryviltj: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $6.25 to $11.25
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: calls $6.25
+*** FLOP *** [8d 3s Qs]
+ljryviltj: checks
+AlexeSsz: bets $16.15
+ljryviltj: calls $16.15
+*** TURN *** [8d 3s Qs] [3d]
+ljryviltj: checks
+AlexeSsz: checks
+*** RIVER *** [8d 3s Qs 3d] [5d]
+ljryviltj: checks
+AlexeSsz: bets $47.48
+ljryviltj: folds
+Uncalled bet ($47.48) returned to AlexeSsz
+AlexeSsz collected $63.30 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $66.30 | Rake $3
+Board [8d 3s Qs 3d 5d]
+Seat 1: kelele45 (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded on the River
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($63.30)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970001721:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:20:07 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($683.97 in chips)
+Seat 3: oledgyk ($580.50 in chips)
+Seat 4: RAidakCo ($512.68 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1213.47 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($682.32 in chips)
+Seat 9: pelyatww ($679.08 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+Uncalled bet ($6) returned to RAidakCo
+RAidakCo collected $21.50 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: kelele45 (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo collected ($21.50)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970002813:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:20:16 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($680.47 in chips)
+Seat 3: oledgyk ($574.50 in chips)
+Seat 4: RAidakCo ($528.18 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1212.47 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($681.32 in chips)
+Seat 9: pelyatww ($678.08 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: raises $12.50 to $17.50
+RAidakCo: calls $12.50
+*** FLOP *** [6d 7s 8s]
+oledgyk: checks
+RAidakCo: bets $31.35
+oledgyk: calls $31.35
+*** TURN *** [6d 7s 8s] [4d]
+oledgyk: checks
+RAidakCo: bets $140
+oledgyk: calls $140
+*** RIVER *** [6d 7s 8s 4d] [3d]
+oledgyk: checks
+RAidakCo: bets $338.33 and is all-in
+oledgyk: calls $338.33
+*** SHOW DOWN ***
+RAidakCo: shows [5h 8h] (a straight, Four to Eight)
+oledgyk: shows [9c 9d] (a pair of Nines)
+RAidakCo collected $1060.36 from pot
+*** SUMMARY ***
+Total pot $1063.36 | Rake $3
+Board [6d 7s 8s 4d 3d]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) showed [9c 9d] and lost with a pair of Nines
+Seat 4: RAidakCo (big blind) showed [5h 8h] and won ($1060.36) with a straight, Four to Eight
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970020757:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:22:42 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($679.47 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1060.36 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1211.47 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($680.32 in chips)
+Seat 9: pelyatww ($677.08 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $15 to $20
+typ6oky3mu4: raises $40 to $60
+spzilla: folds
+RAidakCo: folds
+Uncalled bet ($40) returned to typ6oky3mu4
+typ6oky3mu4 collected $54 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) collected ($54)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970024468:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:23:13 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($678.47 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1039.36 in chips)
+Seat 5: typ6oky3mu4 ($533 in chips)
+Seat 6: AlexeSsz ($1210.47 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($674.32 in chips)
+Seat 9: pelyatww ($676.08 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $7.50 to $12.50
+typ6oky3mu4: folds
+AlexeSsz: calls $7.50
+*** FLOP *** [9s 5d Ts]
+AlexeSsz: checks
+RAidakCo: bets $26.01
+AlexeSsz: calls $26.01
+*** TURN *** [9s 5d Ts] [Ah]
+AlexeSsz: checks
+RAidakCo: bets $70
+AlexeSsz: folds
+Uncalled bet ($70) returned to RAidakCo
+RAidakCo collected $85.52 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $88.52 | Rake $3
+Board [9s 5d Ts Ah]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) collected ($85.52)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded on the Turn
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970030150:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:24:00 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($677.47 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1085.37 in chips)
+Seat 5: typ6oky3mu4 ($529.50 in chips)
+Seat 6: AlexeSsz ($1170.96 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($673.32 in chips)
+Seat 9: pelyatww ($675.08 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: folds
+PokerStarJ2: calls $7.50
+*** FLOP *** [9s Ah 4d]
+PokerStarJ2: checks
+typ6oky3mu4: bets $11.44
+PokerStarJ2: calls $11.44
+*** TURN *** [9s Ah 4d] [Qd]
+PokerStarJ2: checks
+typ6oky3mu4: bets $78.97
+PokerStarJ2: folds
+Uncalled bet ($78.97) returned to typ6oky3mu4
+typ6oky3mu4 collected $56.41 from pot
+*** SUMMARY ***
+Total pot $59.38 | Rake $2.97
+Board [9s Ah 4d Qd]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) collected ($56.41)
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) folded on the Turn
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970036859:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:24:55 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($676.47 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1084.37 in chips)
+Seat 5: typ6oky3mu4 ($560.97 in chips)
+Seat 6: AlexeSsz ($1167.46 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($672.32 in chips)
+Seat 9: pelyatww ($674.08 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: raises $7.50 to $12.50
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $27.50 to $40
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $35
+pelyatww: folds
+*** FLOP *** [2c 6h 2h]
+spzilla: checks
+RAidakCo: bets $50.50
+spzilla: calls $50.50
+*** TURN *** [2c 6h 2h] [Tc]
+spzilla: checks
+RAidakCo: bets $101
+spzilla: folds
+Uncalled bet ($101) returned to RAidakCo
+RAidakCo collected $202 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $205 | Rake $3
+Board [2c 6h 2h Tc]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo collected ($202)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) folded on the Turn
+Seat 9: pelyatww folded before Flop
+
+
+PokerStars Hand #240970044041:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:25:53 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($675.47 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1194.87 in chips)
+Seat 5: typ6oky3mu4 ($559.97 in chips)
+Seat 6: AlexeSsz ($1166.46 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($580.82 in chips)
+Seat 9: pelyatww ($660.58 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: calls $5
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: raises $20 to $25
+typ6oky3mu4: calls $20
+*** FLOP *** [7d Jc Jh]
+pelyatww: bets $19.30
+typ6oky3mu4: folds
+Uncalled bet ($19.30) returned to pelyatww
+pelyatww collected $58.50 from pot
+*** SUMMARY ***
+Total pot $61.50 | Rake $3
+Board [7d Jc Jh]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded on the Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded before Flop
+Seat 9: pelyatww (big blind) collected ($58.50)
+
+
+PokerStars Hand #240970047392:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:26:21 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($674.47 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1193.87 in chips)
+Seat 5: typ6oky3mu4 ($533.97 in chips)
+Seat 6: AlexeSsz ($1165.46 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($577.32 in chips)
+Seat 9: pelyatww ($693.08 in chips)
+pelyatww: posts small blind $2.50
+kelele45: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+pelyatww: folds
+kelele45: folds
+*** FLOP *** [6h Js 9d]
+PokerStarJ2: bets $20.16
+spzilla: folds
+Uncalled bet ($20.16) returned to PokerStarJ2
+PokerStarJ2 collected $39.52 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $41.60 | Rake $2.08
+Board [6h Js 9d]
+Seat 1: kelele45 (big blind) folded before Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 collected ($39.52)
+Seat 8: spzilla (button) folded on the Flop
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240970049957:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:26:42 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($673.47 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1192.87 in chips)
+Seat 5: typ6oky3mu4 ($532.97 in chips)
+Seat 6: AlexeSsz ($1164.46 in chips)
+Seat 7: PokerStarJ2 ($525.97 in chips)
+Seat 8: spzilla ($563.77 in chips)
+Seat 9: pelyatww ($689.58 in chips)
+kelele45: posts small blind $2.50
+ljryviltj: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $6.25 to $11.25
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: calls $6.25
+*** FLOP *** [4c Td 7c]
+ljryviltj: checks
+AlexeSsz: checks
+*** TURN *** [4c Td 7c] [Qh]
+ljryviltj: checks
+AlexeSsz: bets $24.23
+ljryviltj: folds
+Uncalled bet ($24.23) returned to AlexeSsz
+AlexeSsz collected $32.30 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $34 | Rake $1.70
+Board [4c Td 7c Qh]
+Seat 1: kelele45 (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded on the Turn
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($32.30)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970054863:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:27:22 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($661.22 in chips)
+Seat 3: oledgyk ($500 in chips)
+Seat 4: RAidakCo ($1191.87 in chips)
+Seat 5: typ6oky3mu4 ($531.97 in chips)
+Seat 6: AlexeSsz ($1184.51 in chips)
+Seat 7: PokerStarJ2 ($524.97 in chips)
+Seat 8: spzilla ($562.77 in chips)
+Seat 9: pelyatww ($688.58 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+Uncalled bet ($2.50) returned to oledgyk
+oledgyk collected $14 from pot
+oledgyk: doesn't show hand
+*** SUMMARY ***
+Total pot $14 | Rake $0
+Seat 1: kelele45 (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) collected ($14)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970056587:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:27:36 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($657.72 in chips)
+Seat 3: oledgyk ($510.50 in chips)
+Seat 4: RAidakCo ($1190.87 in chips)
+Seat 5: typ6oky3mu4 ($530.97 in chips)
+Seat 6: AlexeSsz ($1183.51 in chips)
+Seat 7: PokerStarJ2 ($523.97 in chips)
+Seat 8: spzilla ($561.77 in chips)
+Seat 9: pelyatww ($687.58 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: raises $49.95 to $62.50
+RAidakCo: folds
+PokerStarJ2: calls $49.95
+*** FLOP *** [3d Js 4c]
+oledgyk: bets $45
+PokerStarJ2: calls $45
+*** TURN *** [3d Js 4c] [3h]
+oledgyk: checks
+PokerStarJ2: checks
+*** RIVER *** [3d Js 4c 3h] [6s]
+oledgyk: checks
+PokerStarJ2: checks
+*** SHOW DOWN ***
+oledgyk: shows [Td Ts] (two pair, Tens and Threes)
+PokerStarJ2: mucks hand
+oledgyk collected $226 from pot
+*** SUMMARY ***
+Total pot $229 | Rake $3
+Board [3d Js 4c 3h 6s]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) showed [Td Ts] and won ($226) with two pair, Tens and Threes
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 mucked
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970067456:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:29:02 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($656.72 in chips)
+Seat 3: oledgyk ($628 in chips)
+Seat 4: RAidakCo ($1184.87 in chips)
+Seat 5: typ6oky3mu4 ($529.97 in chips)
+Seat 6: AlexeSsz ($1182.51 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($560.77 in chips)
+Seat 9: pelyatww ($686.58 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: raises $6.25 to $11.25
+PokerStarJ2: folds
+spzilla: calls $11.25
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: raises $43.75 to $55
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: calls $43.75
+spzilla: calls $43.75
+*** FLOP *** [3h 7s 8s]
+AlexeSsz: checks
+spzilla: checks
+oledgyk: checks
+*** TURN *** [3h 7s 8s] [As]
+AlexeSsz: checks
+spzilla: checks
+oledgyk: checks
+*** RIVER *** [3h 7s 8s As] [7c]
+AlexeSsz: checks
+spzilla: checks
+oledgyk: bets $87.10
+AlexeSsz: folds
+spzilla: folds
+Uncalled bet ($87.10) returned to oledgyk
+oledgyk collected $178.50 from pot
+oledgyk: doesn't show hand
+*** SUMMARY ***
+Total pot $181.50 | Rake $3
+Board [3h 7s 8s As 7c]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) collected ($178.50)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded before Flop
+Seat 6: AlexeSsz folded on the River
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the River
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970078354:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:30:29 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($655.72 in chips)
+Seat 3: oledgyk ($750.50 in chips)
+Seat 4: RAidakCo ($1181.37 in chips)
+Seat 5: typ6oky3mu4 ($523.97 in chips)
+Seat 6: AlexeSsz ($1126.51 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($504.77 in chips)
+Seat 9: pelyatww ($685.58 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+Uncalled bet ($2.50) returned to AlexeSsz
+AlexeSsz collected $14 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $14 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) collected ($14)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970080240:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:30:44 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($654.72 in chips)
+Seat 3: oledgyk ($749.50 in chips)
+Seat 4: RAidakCo ($1180.37 in chips)
+Seat 5: typ6oky3mu4 ($520.47 in chips)
+Seat 6: AlexeSsz ($1137.01 in chips)
+Seat 7: PokerStarJ2 ($500 in chips)
+Seat 8: spzilla ($503.77 in chips)
+Seat 9: pelyatww ($684.58 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: folds
+PokerStarJ2: raises $47.50 to $60
+typ6oky3mu4: folds
+Uncalled bet ($47.50) returned to PokerStarJ2
+PokerStarJ2 collected $36.50 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $36.50 | Rake $0
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) collected ($36.50)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970086025:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:31:29 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($653.72 in chips)
+Seat 3: oledgyk ($748.50 in chips)
+Seat 4: RAidakCo ($1179.37 in chips)
+Seat 5: typ6oky3mu4 ($506.97 in chips)
+Seat 6: AlexeSsz ($1133.51 in chips)
+Seat 7: PokerStarJ2 ($523 in chips)
+Seat 8: spzilla ($502.77 in chips)
+Seat 9: pelyatww ($683.58 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: raises $7.50 to $12.50
+kelele45: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: calls $10
+spzilla: folds
+*** FLOP *** [2h Ac 6c]
+PokerStarJ2: checks
+pelyatww: bets $12.20
+PokerStarJ2: raises $30.30 to $42.50
+pelyatww: folds
+Uncalled bet ($30.30) returned to PokerStarJ2
+PokerStarJ2 collected $60.40 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $63.40 | Rake $3
+Board [2h Ac 6c]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) collected ($60.40)
+Seat 8: spzilla (big blind) folded before Flop
+Seat 9: pelyatww folded on the Flop
+
+
+PokerStars Hand #240970090886:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:32:07 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: kelele45 ($500 in chips)
+Seat 2: ljryviltj ($652.72 in chips)
+Seat 3: oledgyk ($747.50 in chips)
+Seat 4: RAidakCo ($1178.37 in chips)
+Seat 5: typ6oky3mu4 ($505.97 in chips)
+Seat 6: AlexeSsz ($1132.51 in chips)
+Seat 7: PokerStarJ2 ($557.70 in chips)
+Seat 8: spzilla ($496.77 in chips)
+Seat 9: pelyatww ($657.88 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+kelele45: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+kelele45: folds
+kelele45 leaves the table
+ljryviltj: folds
+oledgyk: raises $10 to $15
+RAidakCo: calls $15
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $55 to $70
+Zavorotny joins the table at seat #1
+spzilla: calls $67.50
+pelyatww: folds
+oledgyk: calls $55
+RAidakCo: calls $55
+*** FLOP *** [Qh 3s 5h]
+spzilla: checks
+oledgyk: checks
+RAidakCo: checks
+PokerStarJ2: bets $75
+spzilla: calls $75
+oledgyk: folds
+RAidakCo: folds
+*** TURN *** [Qh 3s 5h] [8c]
+spzilla: checks
+PokerStarJ2: bets $411.70 and is all-in
+spzilla: folds
+Uncalled bet ($411.70) returned to PokerStarJ2
+PokerStarJ2 collected $441 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $444 | Rake $3
+Board [Qh 3s 5h 8c]
+Seat 1: kelele45 folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded on the Flop
+Seat 4: RAidakCo folded on the Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) collected ($441)
+Seat 8: spzilla (small blind) folded on the Turn
+Seat 9: pelyatww (big blind) folded before Flop
+
+
+PokerStars Hand #240970105811:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:34:03 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($651.72 in chips)
+Seat 3: oledgyk ($676.50 in chips)
+Seat 4: RAidakCo ($1107.37 in chips)
+Seat 5: typ6oky3mu4 ($504.97 in chips)
+Seat 6: AlexeSsz ($1131.51 in chips)
+Seat 7: PokerStarJ2 ($852.70 in chips)
+Seat 8: spzilla ($350.77 in chips)
+Seat 9: pelyatww ($651.88 in chips)
+pelyatww: posts small blind $2.50
+Zavorotny: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+Uncalled bet ($6) returned to RAidakCo
+RAidakCo collected $21.50 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: Zavorotny (big blind) folded before Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo collected ($21.50)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) folded before Flop (didn't bet)
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240970109099:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:34:28 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($650.72 in chips)
+Seat 3: oledgyk ($675.50 in chips)
+Seat 4: RAidakCo ($1122.87 in chips)
+Seat 5: typ6oky3mu4 ($503.97 in chips)
+Seat 6: AlexeSsz ($1130.51 in chips)
+Seat 7: PokerStarJ2 ($851.70 in chips)
+Seat 8: spzilla ($349.77 in chips)
+Seat 9: pelyatww ($648.38 in chips)
+Zavorotny: posts small blind $2.50
+ljryviltj: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: checks
+*** FLOP *** [Jd Ac 9h]
+ljryviltj: checks
+spzilla: bets $5
+ljryviltj: folds
+Uncalled bet ($5) returned to spzilla
+spzilla collected $20.42 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08
+Board [Jd Ac 9h]
+Seat 1: Zavorotny (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded on the Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla collected ($20.42)
+Seat 9: pelyatww (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970113751:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:35:04 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($644.72 in chips)
+Seat 3: oledgyk ($674.50 in chips)
+Seat 4: RAidakCo ($1121.87 in chips)
+Seat 5: typ6oky3mu4 ($502.97 in chips)
+Seat 6: AlexeSsz ($1129.51 in chips)
+Seat 7: PokerStarJ2 ($850.70 in chips)
+Seat 8: spzilla ($364.19 in chips)
+Seat 9: pelyatww ($647.38 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+*** FLOP *** [4c 6d 2h]
+PokerStarJ2: checks
+spzilla: bets $19.76
+PokerStarJ2: calls $19.76
+*** TURN *** [4c 6d 2h] [5d]
+PokerStarJ2: checks
+spzilla: bets $45
+PokerStarJ2: folds
+Uncalled bet ($45) returned to spzilla
+spzilla collected $78.12 from pot
+*** SUMMARY ***
+Total pot $81.12 | Rake $3
+Board [4c 6d 2h 5d]
+Seat 1: Zavorotny (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded on the Turn
+Seat 8: spzilla collected ($78.12)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970119607:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:35:50 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($641.22 in chips)
+Seat 3: oledgyk ($668.50 in chips)
+Seat 4: RAidakCo ($1120.87 in chips)
+Seat 5: typ6oky3mu4 ($501.97 in chips)
+Seat 6: AlexeSsz ($1128.51 in chips)
+Seat 7: PokerStarJ2 ($817.39 in chips)
+Seat 8: spzilla ($409 in chips)
+Seat 9: pelyatww ($646.38 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: calls $2.50
+RAidakCo: checks
+*** FLOP *** [6h 4c Qd]
+oledgyk: bets $7.50
+RAidakCo: folds
+spzilla: raises $37.80 to $45.30
+oledgyk: folds
+Uncalled bet ($37.80) returned to spzilla
+spzilla collected $37.05 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.95
+Board [6h 4c Qd]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) folded on the Flop
+Seat 4: RAidakCo (big blind) folded on the Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla collected ($37.05)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970123575:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:36:22 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($640.22 in chips)
+Seat 3: oledgyk ($655 in chips)
+Seat 4: RAidakCo ($1114.87 in chips)
+Seat 5: typ6oky3mu4 ($500.97 in chips)
+Seat 6: AlexeSsz ($1127.51 in chips)
+Seat 7: PokerStarJ2 ($816.39 in chips)
+Seat 8: spzilla ($432.55 in chips)
+Seat 9: pelyatww ($645.38 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: calls $7.55
+*** FLOP *** [Kh 5d 4d]
+typ6oky3mu4: checks
+PokerStarJ2: checks
+*** TURN *** [Kh 5d 4d] [Tc]
+typ6oky3mu4: checks
+PokerStarJ2: bets $11.59
+typ6oky3mu4: folds
+Uncalled bet ($11.59) returned to PokerStarJ2
+PokerStarJ2 collected $34.77 from pot
+PokerStarJ2: doesn't show hand
+*** SUMMARY ***
+Total pot $36.60 | Rake $1.83
+Board [Kh 5d 4d Tc]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded on the Turn
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 collected ($34.77)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970129057:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:37:04 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($639.22 in chips)
+Seat 3: oledgyk ($654 in chips)
+Seat 4: RAidakCo ($1111.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1126.51 in chips)
+Seat 7: PokerStarJ2 ($837.61 in chips)
+Seat 8: spzilla ($431.55 in chips)
+Seat 9: pelyatww ($644.38 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: raises $15 to $20
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+spzilla: calls $15
+*** FLOP *** [5d 8d 3s]
+spzilla: checks
+oledgyk: bets $17.71
+spzilla: calls $17.71
+*** TURN *** [5d 8d 3s] [6c]
+spzilla: checks
+oledgyk: bets $66.69
+spzilla: folds
+Uncalled bet ($66.69) returned to oledgyk
+oledgyk collected $88.92 from pot
+oledgyk: doesn't show hand
+*** SUMMARY ***
+Total pot $91.92 | Rake $3
+Board [5d 8d 3s 6c]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk collected ($88.92)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded before Flop
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the Turn
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970636519:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:38:03 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($638.22 in chips)
+Seat 3: oledgyk ($704.21 in chips)
+Seat 4: RAidakCo ($1110.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1120.51 in chips)
+Seat 7: PokerStarJ2 ($836.61 in chips)
+Seat 8: spzilla ($392.84 in chips)
+Seat 9: pelyatww ($643.38 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: raises $7.50 to $12.50
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+Uncalled bet ($7.50) returned to ljryviltj
+ljryviltj collected $21.50 from pot
+ljryviltj: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj collected ($21.50)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) folded before Flop
+Seat 7: PokerStarJ2 (big blind) folded before Flop
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970639005:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:38:22 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($653.72 in chips)
+Seat 3: oledgyk ($703.21 in chips)
+Seat 4: RAidakCo ($1109.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1117.01 in chips)
+Seat 7: PokerStarJ2 ($830.61 in chips)
+Seat 8: spzilla ($391.84 in chips)
+Seat 9: pelyatww ($642.38 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: raises $7.50 to $12.50
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $7.50
+*** FLOP *** [2c 3d 9s]
+spzilla: bets $17.34
+ljryviltj: calls $17.34
+*** TURN *** [2c 3d 9s] [6d]
+spzilla: bets $34.09
+ljryviltj: folds
+Uncalled bet ($34.09) returned to spzilla
+spzilla collected $68.18 from pot
+*** SUMMARY ***
+Total pot $71.18 | Rake $3
+Board [2c 3d 9s 6d]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded on the Turn
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) collected ($68.18)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970646990:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:39:25 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($622.88 in chips)
+Seat 3: oledgyk ($702.21 in chips)
+Seat 4: RAidakCo ($1108.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1116.01 in chips)
+Seat 7: PokerStarJ2 ($827.11 in chips)
+Seat 8: spzilla ($429.18 in chips)
+Seat 9: pelyatww ($641.38 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+Zavorotny: raises $5 to $10
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $25 to $35
+PokerStarJ2: folds
+spzilla: calls $32.50
+pelyatww: folds
+Zavorotny: calls $25
+*** FLOP *** [Ks 2d 5s]
+spzilla: checks
+Zavorotny: checks
+AlexeSsz: bets $38.28
+spzilla: folds
+Zavorotny: calls $38.28
+*** TURN *** [Ks 2d 5s] [3h]
+Zavorotny: checks
+AlexeSsz: checks
+*** RIVER *** [Ks 2d 5s 3h] [Th]
+Zavorotny: checks
+AlexeSsz: bets $144.42
+Zavorotny: folds
+Uncalled bet ($144.42) returned to AlexeSsz
+AlexeSsz collected $192.56 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $195.56 | Rake $3
+Board [Ks 2d 5s 3h Th]
+Seat 1: Zavorotny folded on the River
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($192.56)
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded on the Flop
+Seat 9: pelyatww (big blind) folded before Flop
+
+
+PokerStars Hand #240970659652:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:41:03 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($621.88 in chips)
+Seat 3: oledgyk ($701.21 in chips)
+Seat 4: RAidakCo ($1107.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1234.29 in chips)
+Seat 7: PokerStarJ2 ($826.11 in chips)
+Seat 8: spzilla ($393.18 in chips)
+Seat 9: pelyatww ($635.38 in chips)
+pelyatww: posts small blind $2.50
+Zavorotny: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: raises $7.50 to $12.50
+oledgyk: folds
+RAidakCo: calls $12.50
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $12.50
+pelyatww: folds
+Zavorotny: folds
+*** FLOP *** [Qh 4h 5h]
+ljryviltj: bets $38.48
+RAidakCo: folds
+spzilla: folds
+Uncalled bet ($38.48) returned to ljryviltj
+ljryviltj collected $51.30 from pot
+ljryviltj: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $2.70
+Board [Qh 4h 5h]
+Seat 1: Zavorotny (big blind) folded before Flop
+Seat 2: ljryviltj collected ($51.30)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded on the Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) folded on the Flop
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240970664229:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:41:39 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($659.68 in chips)
+Seat 3: oledgyk ($700.21 in chips)
+Seat 4: RAidakCo ($1093.87 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1233.29 in chips)
+Seat 7: PokerStarJ2 ($825.11 in chips)
+Seat 8: spzilla ($379.68 in chips)
+Seat 9: pelyatww ($631.88 in chips)
+Zavorotny: posts small blind $2.50
+ljryviltj: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: raises $7.50 to $12.50
+Zavorotny: folds
+ljryviltj: calls $7.50
+*** FLOP *** [9s Qh 4s]
+ljryviltj: checks
+pelyatww: bets $11.40
+ljryviltj: calls $11.40
+*** TURN *** [9s Qh 4s] [6h]
+ljryviltj: checks
+pelyatww: bets $70.40
+ljryviltj: folds
+Uncalled bet ($70.40) returned to pelyatww
+pelyatww collected $56.34 from pot
+*** SUMMARY ***
+Total pot $59.30 | Rake $2.96
+Board [9s Qh 4s 6h]
+Seat 1: Zavorotny (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded on the Turn
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww (button) collected ($56.34)
+
+
+PokerStars Hand #240970668946:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:42:16 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($634.78 in chips)
+Seat 3: oledgyk ($699.21 in chips)
+Seat 4: RAidakCo ($1092.87 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1232.29 in chips)
+Seat 7: PokerStarJ2 ($824.11 in chips)
+Seat 8: spzilla ($378.68 in chips)
+Seat 9: pelyatww ($663.32 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+Zavorotny: raises $15 to $20
+ljryviltj: folds
+oledgyk: folds
+spzilla: calls $15
+*** FLOP *** [2s 6h Qc]
+spzilla: checks
+Zavorotny: bets $15
+spzilla: folds
+Uncalled bet ($15) returned to Zavorotny
+Zavorotny collected $53.68 from pot
+*** SUMMARY ***
+Total pot $56.50 | Rake $2.82
+Board [2s 6h Qc]
+Seat 1: Zavorotny (button) collected ($53.68)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970673459:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:42:51 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: Zavorotny ($532.68 in chips)
+Seat 2: ljryviltj ($631.28 in chips)
+Seat 3: oledgyk ($693.21 in chips)
+Seat 4: RAidakCo ($1091.87 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1231.29 in chips)
+Seat 7: PokerStarJ2 ($823.11 in chips)
+Seat 8: spzilla ($357.68 in chips)
+Seat 9: pelyatww ($662.32 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: folds
+Zavorotny: raises $10 to $15
+ljryviltj: calls $15
+oledgyk: folds
+RAidakCo: folds
+spzilla: calls $10
+*** FLOP *** [Jh 7c 8s]
+spzilla: checks
+Zavorotny: checks
+ljryviltj: bets $29.25
+spzilla: calls $29.25
+Zavorotny: folds
+*** TURN *** [Jh 7c 8s] [Ah]
+spzilla: checks
+ljryviltj: checks
+*** RIVER *** [Jh 7c 8s Ah] [2d]
+spzilla: checks
+ljryviltj: checks
+*** SHOW DOWN ***
+spzilla: shows [4c 6s] (high card Ace)
+ljryviltj: shows [7s Ts] (a pair of Sevens)
+ljryviltj collected $117 from pot
+*** SUMMARY ***
+Total pot $120 | Rake $3
+Board [Jh 7c 8s Ah 2d]
+Seat 1: Zavorotny folded on the Flop
+Seat 2: ljryviltj (button) showed [7s Ts] and won ($117) with a pair of Sevens
+Seat 3: oledgyk (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla showed [4c 6s] and lost with high card Ace
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970684627:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:44:18 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: Zavorotny ($516.68 in chips)
+Seat 2: ljryviltj ($703.03 in chips)
+Seat 3: oledgyk ($689.71 in chips)
+Seat 4: RAidakCo ($1085.87 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1230.29 in chips)
+Seat 7: PokerStarJ2 ($822.11 in chips)
+Seat 8: spzilla ($312.43 in chips)
+Seat 9: pelyatww ($661.32 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: raises $7.50 to $12.50
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+Uncalled bet ($7.50) returned to ljryviltj
+ljryviltj collected $21.50 from pot
+ljryviltj: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj collected ($21.50)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded before Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970687466:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:44:41 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: Zavorotny ($515.68 in chips)
+Seat 2: ljryviltj ($718.53 in chips)
+Seat 3: oledgyk ($688.71 in chips)
+Seat 4: RAidakCo ($1082.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1229.29 in chips)
+Seat 7: PokerStarJ2 ($821.11 in chips)
+Seat 8: spzilla ($311.43 in chips)
+Seat 9: pelyatww ($660.32 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: raises $7.50 to $12.50
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: calls $7.50
+*** FLOP *** [Jd 4s 3s]
+AlexeSsz: checks
+pelyatww: bets $11.40
+AlexeSsz: raises $28.74 to $40.14
+pelyatww: calls $28.74
+*** TURN *** [Jd 4s 3s] [6s]
+AlexeSsz: bets $37.55
+pelyatww: calls $37.55
+*** RIVER *** [Jd 4s 3s 6s] [Ad]
+AlexeSsz: bets $62.33
+pelyatww: folds
+Uncalled bet ($62.33) returned to AlexeSsz
+AlexeSsz collected $188.88 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $191.88 | Rake $3
+Board [Jd 4s 3s 6s Ad]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) collected ($188.88)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded on the River
+
+
+PokerStars Hand #240970706271:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:47:03 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: Zavorotny ($514.68 in chips)
+Seat 2: ljryviltj ($717.53 in chips)
+Seat 3: oledgyk ($687.71 in chips)
+Seat 4: RAidakCo ($1081.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1326.98 in chips)
+Seat 7: PokerStarJ2 ($820.11 in chips)
+Seat 8: spzilla ($310.43 in chips)
+Seat 9: pelyatww ($569.13 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $9 to $14
+PokerStarJ2: folds
+Uncalled bet ($9) returned to AlexeSsz
+AlexeSsz collected $19 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $19 | Rake $0
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) collected ($19)
+Seat 7: PokerStarJ2 (big blind) folded before Flop
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970708538:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:47:20 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: Zavorotny ($513.68 in chips)
+Seat 2: ljryviltj ($716.53 in chips)
+Seat 3: oledgyk ($686.71 in chips)
+Seat 4: RAidakCo ($1080.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1339.98 in chips)
+Seat 7: PokerStarJ2 ($814.11 in chips)
+Seat 8: spzilla ($309.43 in chips)
+Seat 9: pelyatww ($568.13 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: folds
+Zavorotny: calls $5
+ljryviltj: folds
+oledgyk: calls $5
+RAidakCo: calls $5
+typ6oky3mu4: calls $5
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: checks
+*** FLOP *** [Ks 4c 2h]
+spzilla: checks
+Zavorotny: bets $19.05
+oledgyk: calls $19.05
+RAidakCo: folds
+typ6oky3mu4: folds
+spzilla: calls $19.05
+*** TURN *** [Ks 4c 2h] [6c]
+spzilla: checks
+Zavorotny: bets $75
+oledgyk: folds
+spzilla: calls $75
+*** RIVER *** [Ks 4c 2h 6c] [5d]
+spzilla: checks
+Zavorotny: bets $205
+spzilla: raises $4.38 to $209.38 and is all-in
+Zavorotny: calls $4.38
+*** SHOW DOWN ***
+spzilla: shows [5c 3h] (a straight, Deuce to Six)
+Zavorotny: shows [4s 4h] (three of a kind, Fours)
+spzilla collected $659.41 from pot
+*** SUMMARY ***
+Total pot $662.41 | Rake $3
+Board [Ks 4c 2h 6c 5d]
+Seat 1: Zavorotny showed [4s 4h] and lost with three of a kind, Fours
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded on the Turn
+Seat 4: RAidakCo folded on the Flop
+Seat 5: typ6oky3mu4 folded on the Flop
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) showed [5c 3h] and won ($659.41) with a straight, Deuce to Six
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970724968:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:49:24 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($715.53 in chips)
+Seat 3: oledgyk ($661.66 in chips)
+Seat 4: RAidakCo ($1074.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1338.98 in chips)
+Seat 7: PokerStarJ2 ($810.61 in chips)
+Seat 8: spzilla ($659.41 in chips)
+Seat 9: pelyatww ($567.13 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $7.50 to $12.50
+PokerStarJ2: folds
+spzilla: calls $10
+pelyatww: calls $7.50
+*** FLOP *** [Qh 9d Jh]
+spzilla: checks
+pelyatww: checks
+AlexeSsz: checks
+*** TURN *** [Qh 9d Jh] [7d]
+spzilla: bets $22.09
+pelyatww: calls $22.09
+AlexeSsz: folds
+*** RIVER *** [Qh 9d Jh 7d] [8s]
+spzilla: checks
+pelyatww: bets $57.85
+spzilla: folds
+Uncalled bet ($57.85) returned to pelyatww
+pelyatww collected $87.68 from pot
+*** SUMMARY ***
+Total pot $90.68 | Rake $3
+Board [Qh 9d Jh 7d 8s]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded on the Turn
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded on the River
+Seat 9: pelyatww (big blind) collected ($87.68)
+
+
+PokerStars Hand #240970732828:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:50:24 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($714.53 in chips)
+Seat 3: oledgyk ($660.66 in chips)
+Seat 4: RAidakCo ($1073.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1325.48 in chips)
+Seat 7: PokerStarJ2 ($809.61 in chips)
+Seat 8: spzilla ($623.82 in chips)
+Seat 9: pelyatww ($619.22 in chips)
+pelyatww: posts small blind $2.50
+Zavorotny: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $6.25 to $11.25
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+Uncalled bet ($6.25) returned to AlexeSsz
+AlexeSsz collected $21.50 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: Zavorotny (big blind) folded before Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($21.50)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) folded before Flop (didn't bet)
+Seat 9: pelyatww (small blind) folded before Flop
+
+
+PokerStars Hand #240970735717:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:50:46 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($713.53 in chips)
+Seat 3: oledgyk ($659.66 in chips)
+Seat 4: RAidakCo ($1072.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1340.98 in chips)
+Seat 7: PokerStarJ2 ($808.61 in chips)
+Seat 8: spzilla ($622.82 in chips)
+Seat 9: pelyatww ($615.72 in chips)
+Zavorotny: posts small blind $2.50
+ljryviltj: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $6.25 to $11.25
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: calls $6.25
+*** FLOP *** [Ad 2c 5s]
+ljryviltj: checks
+AlexeSsz: bets $5.49
+ljryviltj: folds
+Uncalled bet ($5.49) returned to AlexeSsz
+AlexeSsz collected $32.30 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $34 | Rake $1.70
+Board [Ad 2c 5s]
+Seat 1: Zavorotny (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded on the Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($32.30)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970740316:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:51:20 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($701.28 in chips)
+Seat 3: oledgyk ($658.66 in chips)
+Seat 4: RAidakCo ($1071.37 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1361.03 in chips)
+Seat 7: PokerStarJ2 ($807.61 in chips)
+Seat 8: spzilla ($621.82 in chips)
+Seat 9: pelyatww ($614.72 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $11
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+*** FLOP *** [Js 4d 5s]
+RAidakCo: bets $27.44
+spzilla: calls $27.44
+*** TURN *** [Js 4d 5s] [Ts]
+RAidakCo: bets $67.79
+spzilla: folds
+Uncalled bet ($67.79) returned to RAidakCo
+RAidakCo collected $90.38 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $93.38 | Rake $3
+Board [Js 4d 5s Ts]
+Seat 1: Zavorotny (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo collected ($90.38)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the Turn
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970745330:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:51:58 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($697.78 in chips)
+Seat 3: oledgyk ($652.66 in chips)
+Seat 4: RAidakCo ($1122.31 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1360.03 in chips)
+Seat 7: PokerStarJ2 ($806.61 in chips)
+Seat 8: spzilla ($582.38 in chips)
+Seat 9: pelyatww ($613.72 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: raises $6.25 to $11.25
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: calls $6.25
+*** FLOP *** [Ac Qd 9d]
+RAidakCo: checks
+AlexeSsz: bets $16.15
+RAidakCo: calls $16.15
+*** TURN *** [Ac Qd 9d] [5h]
+RAidakCo: checks
+AlexeSsz: bets $87.35
+RAidakCo: folds
+Uncalled bet ($87.35) returned to AlexeSsz
+AlexeSsz collected $63.30 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $66.30 | Rake $3
+Board [Ac Qd 9d 5h]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded on the Turn
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($63.30)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970753094:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:52:57 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($696.78 in chips)
+Seat 3: oledgyk ($649.16 in chips)
+Seat 4: RAidakCo ($1093.91 in chips)
+Seat 5: typ6oky3mu4 ($500 in chips)
+Seat 6: AlexeSsz ($1394.93 in chips)
+Seat 7: PokerStarJ2 ($805.61 in chips)
+Seat 8: spzilla ($581.38 in chips)
+Seat 9: pelyatww ($612.72 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Zavorotny: raises $7.50 to $12.50
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: calls $7.50
+*** FLOP *** [Th Ac As]
+typ6oky3mu4: checks
+Zavorotny: bets $10.75
+typ6oky3mu4: calls $10.75
+*** TURN *** [Th Ac As] [6h]
+typ6oky3mu4: checks
+Zavorotny: bets $15
+typ6oky3mu4: raises $55 to $70
+Zavorotny: calls $55
+*** RIVER *** [Th Ac As 6h] [2c]
+typ6oky3mu4: bets $146.25
+Zavorotny: folds
+Uncalled bet ($146.25) returned to typ6oky3mu4
+typ6oky3mu4 collected $195 from pot
+*** SUMMARY ***
+Total pot $198 | Rake $3
+Board [Th Ac As 6h 2c]
+Seat 1: Zavorotny folded on the River
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) folded before Flop (didn't bet)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) collected ($195)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970764964:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:54:28 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: Zavorotny ($500 in chips)
+Seat 2: ljryviltj ($695.78 in chips)
+Seat 3: oledgyk ($648.16 in chips)
+Seat 4: RAidakCo ($1090.41 in chips)
+Seat 5: typ6oky3mu4 ($600.75 in chips)
+Seat 6: AlexeSsz ($1393.93 in chips)
+Seat 7: PokerStarJ2 ($804.61 in chips)
+Seat 8: spzilla ($580.38 in chips)
+Seat 9: pelyatww ($611.72 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: folds
+Zavorotny: raises $7.50 to $12.50
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+Uncalled bet ($7.50) returned to Zavorotny
+Zavorotny collected $21.50 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: Zavorotny collected ($21.50)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded before Flop
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970769166:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:54:59 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: Zavorotny ($515.50 in chips)
+Seat 2: ljryviltj ($694.78 in chips)
+Seat 3: oledgyk ($647.16 in chips)
+Seat 4: RAidakCo ($1089.41 in chips)
+Seat 5: typ6oky3mu4 ($597.25 in chips)
+Seat 6: AlexeSsz ($1387.93 in chips)
+Seat 7: PokerStarJ2 ($803.61 in chips)
+Seat 8: spzilla ($579.38 in chips)
+Seat 9: pelyatww ($610.72 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $9 to $14
+PokerStarJ2: calls $9
+*** FLOP *** [Kh 3s Js]
+AlexeSsz: bets $8.79
+PokerStarJ2: calls $8.79
+*** TURN *** [Kh 3s Js] [8d]
+AlexeSsz: bets $103.70
+PokerStarJ2: folds
+Uncalled bet ($103.70) returned to AlexeSsz
+AlexeSsz collected $51.85 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $54.58 | Rake $2.73
+Board [Kh 3s Js 8d]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) folded before Flop (didn't bet)
+Seat 6: AlexeSsz (small blind) collected ($51.85)
+Seat 7: PokerStarJ2 (big blind) folded on the Turn
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970774316:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:55:42 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: Zavorotny ($514.50 in chips)
+Seat 2: ljryviltj ($693.78 in chips)
+Seat 3: oledgyk ($646.16 in chips)
+Seat 4: RAidakCo ($1088.41 in chips)
+Seat 5: typ6oky3mu4 ($596.25 in chips)
+Seat 6: AlexeSsz ($1415.99 in chips)
+Seat 7: PokerStarJ2 ($779.82 in chips)
+Seat 8: spzilla ($578.38 in chips)
+Seat 9: pelyatww ($609.72 in chips)
+PokerStarJ2: posts small blind $2.50
+spzilla: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: raises $7.50 to $12.50
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $7.50
+*** FLOP *** [5s 4s 7c]
+spzilla: bets $17.34
+ljryviltj: folds
+Uncalled bet ($17.34) returned to spzilla
+spzilla collected $34.68 from pot
+*** SUMMARY ***
+Total pot $36.50 | Rake $1.82
+Board [5s 4s 7c]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded on the Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (small blind) folded before Flop
+Seat 8: spzilla (big blind) collected ($34.68)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970778099:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:56:15 ET
+Table 'Ancha II' 9-max Seat #7 is the button
+Seat 1: Zavorotny ($513.50 in chips)
+Seat 2: ljryviltj ($680.28 in chips)
+Seat 3: oledgyk ($645.16 in chips)
+Seat 4: RAidakCo ($1087.41 in chips)
+Seat 5: typ6oky3mu4 ($595.25 in chips)
+Seat 6: AlexeSsz ($1414.99 in chips)
+Seat 7: PokerStarJ2 ($776.32 in chips)
+Seat 8: spzilla ($599.56 in chips)
+Seat 9: pelyatww ($608.72 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: calls $2.50
+pelyatww: checks
+*** FLOP *** [Ts 9s Ks]
+spzilla: checks
+pelyatww: bets $11.90
+spzilla: calls $11.90
+*** TURN *** [Ts 9s Ks] [Th]
+spzilla: bets $20.33
+pelyatww: folds
+Uncalled bet ($20.33) returned to spzilla
+spzilla collected $40.66 from pot
+*** SUMMARY ***
+Total pot $42.80 | Rake $2.14
+Board [Ts 9s Ks Th]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) collected ($40.66)
+Seat 9: pelyatww (big blind) folded on the Turn
+
+
+PokerStars Hand #240970784512:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:57:10 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: Zavorotny ($512.50 in chips)
+Seat 2: ljryviltj ($679.28 in chips)
+Seat 3: oledgyk ($644.16 in chips)
+Seat 4: RAidakCo ($1086.41 in chips)
+Seat 5: typ6oky3mu4 ($594.25 in chips)
+Seat 7: PokerStarJ2 ($775.32 in chips)
+Seat 8: spzilla ($622.32 in chips)
+Seat 9: pelyatww ($590.82 in chips)
+pelyatww: posts small blind $2.50
+Zavorotny: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: calls $2.50
+Zavorotny: checks
+*** FLOP *** [Ad 6d 3d]
+pelyatww: checks
+Zavorotny: checks
+spzilla: bets $10.93
+pelyatww: folds
+Zavorotny: folds
+Uncalled bet ($10.93) returned to spzilla
+spzilla collected $21.85 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $1.15
+Board [Ad 6d 3d]
+Seat 1: Zavorotny (big blind) folded on the Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla (button) collected ($21.85)
+Seat 9: pelyatww (small blind) folded on the Flop
+
+
+PokerStars Hand #240970790576:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:58:01 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: Zavorotny ($506.50 in chips)
+Seat 2: ljryviltj ($678.28 in chips)
+Seat 3: oledgyk ($643.16 in chips)
+Seat 4: RAidakCo ($1085.41 in chips)
+Seat 5: typ6oky3mu4 ($593.25 in chips)
+Seat 7: PokerStarJ2 ($774.32 in chips)
+Seat 8: spzilla ($638.17 in chips)
+Seat 9: pelyatww ($584.82 in chips)
+Zavorotny: posts small blind $2.50
+ljryviltj: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: raises $7.50 to $12.50
+Zavorotny: raises $37.50 to $50
+ljryviltj: folds
+pelyatww: folds
+Uncalled bet ($37.50) returned to Zavorotny
+Zavorotny collected $38 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $0
+Seat 1: Zavorotny (small blind) collected ($38)
+Seat 2: ljryviltj (big blind) folded before Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww (button) folded before Flop
+
+
+PokerStars Hand #240970792561:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:58:18 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: Zavorotny ($531 in chips)
+Seat 2: ljryviltj ($672.28 in chips)
+Seat 3: oledgyk ($642.16 in chips)
+Seat 4: RAidakCo ($1084.41 in chips)
+Seat 5: typ6oky3mu4 ($592.25 in chips)
+Seat 7: PokerStarJ2 ($773.32 in chips)
+Seat 8: spzilla ($637.17 in chips)
+Seat 9: pelyatww ($571.32 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+typ6oky3mu4: folds
+PokerStarJ2: folds
+spzilla: calls $5
+pelyatww: raises $15 to $20
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: calls $15
+spzilla: calls $15
+*** FLOP *** [6h 8d 9s]
+oledgyk: bets $22.28
+spzilla: raises $32.28 to $54.56
+pelyatww: folds
+oledgyk: calls $32.28
+*** TURN *** [6h 8d 9s] [Tc]
+oledgyk: bets $123.40
+spzilla: folds
+Uncalled bet ($123.40) returned to oledgyk
+oledgyk collected $176.62 from pot
+oledgyk: doesn't show hand
+*** SUMMARY ***
+Total pot $179.62 | Rake $3
+Board [6h 8d 9s Tc]
+Seat 1: Zavorotny (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) folded before Flop
+Seat 3: oledgyk (big blind) collected ($176.62)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded on the Turn
+Seat 9: pelyatww folded on the Flop
+
+
+PokerStars Hand #240970800572:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:59:25 ET
+Table 'Ancha II' 9-max Seat #2 is the button
+Seat 1: Zavorotny ($530 in chips)
+Seat 2: ljryviltj ($668.78 in chips)
+Seat 3: oledgyk ($743.22 in chips)
+Seat 4: RAidakCo ($1083.41 in chips)
+Seat 5: typ6oky3mu4 ($591.25 in chips)
+Seat 6: AlexeSsz ($1413.99 in chips)
+Seat 7: PokerStarJ2 ($772.32 in chips)
+Seat 8: spzilla ($561.61 in chips)
+Seat 9: pelyatww ($550.32 in chips)
+oledgyk: posts small blind $2.50
+RAidakCo: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: folds
+spzilla: folds
+pelyatww: raises $7.50 to $12.50
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+Uncalled bet ($7.50) returned to pelyatww
+pelyatww collected $21.50 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $0
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj (button) folded before Flop (didn't bet)
+Seat 3: oledgyk (small blind) folded before Flop
+Seat 4: RAidakCo (big blind) folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded before Flop (didn't bet)
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww collected ($21.50)
+
+
+PokerStars Hand #240970802962:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 3:59:45 ET
+Table 'Ancha II' 9-max Seat #3 is the button
+Seat 1: Zavorotny ($529 in chips)
+Seat 2: ljryviltj ($667.78 in chips)
+Seat 3: oledgyk ($739.72 in chips)
+Seat 4: RAidakCo ($1077.41 in chips)
+Seat 5: typ6oky3mu4 ($590.25 in chips)
+Seat 6: AlexeSsz ($1412.99 in chips)
+Seat 7: PokerStarJ2 ($771.32 in chips)
+Seat 8: spzilla ($560.61 in chips)
+Seat 9: pelyatww ($565.82 in chips)
+RAidakCo: posts small blind $2.50
+typ6oky3mu4: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+AlexeSsz: folds
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: calls $12.55
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: raises $42.45 to $55
+RAidakCo: folds
+typ6oky3mu4: folds
+PokerStarJ2: calls $42.45
+spzilla: calls $42.45
+*** FLOP *** [5s Ad 8h]
+PokerStarJ2: checks
+spzilla: checks
+oledgyk: bets $56
+PokerStarJ2: folds
+spzilla: folds
+Uncalled bet ($56) returned to oledgyk
+oledgyk collected $178.50 from pot
+oledgyk: doesn't show hand
+*** SUMMARY ***
+Total pot $181.50 | Rake $3
+Board [5s Ad 8h]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk (button) collected ($178.50)
+Seat 4: RAidakCo (small blind) folded before Flop
+Seat 5: typ6oky3mu4 (big blind) folded before Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 7: PokerStarJ2 folded on the Flop
+Seat 8: spzilla folded on the Flop
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970808816:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 4:00:35 ET
+Table 'Ancha II' 9-max Seat #4 is the button
+Seat 1: Zavorotny ($528 in chips)
+Seat 2: ljryviltj ($666.78 in chips)
+Seat 3: oledgyk ($862.22 in chips)
+Seat 4: RAidakCo ($1073.91 in chips)
+Seat 5: typ6oky3mu4 ($584.25 in chips)
+Seat 6: AlexeSsz ($1411.99 in chips)
+Seat 7: PokerStarJ2 ($715.32 in chips)
+Seat 8: spzilla ($504.61 in chips)
+Seat 9: pelyatww ($564.82 in chips)
+typ6oky3mu4: posts small blind $2.50
+AlexeSsz: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+PokerStarJ2: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2: raises $7.55 to $12.55
+spzilla: folds
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: raises $27.45 to $40
+typ6oky3mu4: folds
+AlexeSsz: folds
+PokerStarJ2: calls $27.45
+*** FLOP *** [4h 4s Qc]
+PokerStarJ2: checks
+RAidakCo: bets $28.05
+PokerStarJ2: folds
+Uncalled bet ($28.05) returned to RAidakCo
+RAidakCo collected $93.50 from pot
+RAidakCo: doesn't show hand
+*** SUMMARY ***
+Total pot $96.50 | Rake $3
+Board [4h 4s Qc]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo (button) collected ($93.50)
+Seat 5: typ6oky3mu4 (small blind) folded before Flop
+Seat 6: AlexeSsz (big blind) folded before Flop
+Seat 7: PokerStarJ2 folded on the Flop
+Seat 8: spzilla folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970813065:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 4:01:08 ET
+Table 'Ancha II' 9-max Seat #5 is the button
+Seat 1: Zavorotny ($527 in chips)
+Seat 2: ljryviltj ($665.78 in chips)
+Seat 3: oledgyk ($861.22 in chips)
+Seat 4: RAidakCo ($1126.41 in chips)
+Seat 5: typ6oky3mu4 ($580.75 in chips)
+Seat 6: AlexeSsz ($1405.99 in chips)
+Seat 8: spzilla ($503.61 in chips)
+Seat 9: pelyatww ($563.82 in chips)
+AlexeSsz: posts small blind $2.50
+PokerStarJ2: is sitting out
+spzilla: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+PokerStarJ2 leaves the table
+pelyatww: folds
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: raises $10 to $15
+RAidakCo: folds
+typ6oky3mu4: calls $15
+Gratitdude joins the table at seat #7
+AlexeSsz: calls $12.50
+spzilla: calls $10
+*** FLOP *** [4s 7h 5s]
+AlexeSsz: checks
+spzilla: checks
+oledgyk: checks
+typ6oky3mu4: bets $21.45
+AlexeSsz: folds
+spzilla: calls $21.45
+oledgyk: folds
+*** TURN *** [4s 7h 5s] [9s]
+spzilla: checks
+typ6oky3mu4: bets $60
+spzilla: folds
+Uncalled bet ($60) returned to typ6oky3mu4
+typ6oky3mu4 collected $107.90 from pot
+*** SUMMARY ***
+Total pot $110.90 | Rake $3
+Board [4s 7h 5s 9s]
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded on the Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 (button) collected ($107.90)
+Seat 6: AlexeSsz (small blind) folded on the Flop
+Seat 8: spzilla (big blind) folded on the Turn
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+
+PokerStars Hand #240970820981:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 4:02:08 ET
+Table 'Ancha II' 9-max Seat #6 is the button
+Seat 1: Zavorotny ($526 in chips)
+Seat 2: ljryviltj ($664.78 in chips)
+Seat 3: oledgyk ($845.22 in chips)
+Seat 4: RAidakCo ($1125.41 in chips)
+Seat 5: typ6oky3mu4 ($651.20 in chips)
+Seat 6: AlexeSsz ($1389.99 in chips)
+Seat 8: spzilla ($466.16 in chips)
+Seat 9: pelyatww ($562.82 in chips)
+spzilla: posts small blind $2.50
+pelyatww: posts big blind $5
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+Zavorotny: folds
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: raises $10 to $15
+AlexeSsz: folds
+spzilla: folds
+pelyatww: folds
+Uncalled bet ($10) returned to typ6oky3mu4
+typ6oky3mu4 collected $20.50 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $0
+Seat 1: Zavorotny folded before Flop (didn't bet)
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 collected ($20.50)
+Seat 6: AlexeSsz (button) folded before Flop (didn't bet)
+Seat 8: spzilla (small blind) folded before Flop
+Seat 9: pelyatww (big blind) folded before Flop
+
+
+PokerStars Hand #240970823645:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 4:02:28 ET
+Table 'Ancha II' 9-max Seat #8 is the button
+Seat 1: Zavorotny ($525 in chips)
+Seat 2: ljryviltj ($663.78 in chips)
+Seat 3: oledgyk ($844.22 in chips)
+Seat 4: RAidakCo ($1124.41 in chips)
+Seat 5: typ6oky3mu4 ($665.70 in chips)
+Seat 6: AlexeSsz ($1388.99 in chips)
+Seat 8: spzilla ($462.66 in chips)
+Seat 9: pelyatww ($556.82 in chips)
+pelyatww: posts small blind $2.50
+Zavorotny: posts big blind $5
+Gratitdude: sits out
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+ljryviltj: folds
+oledgyk: folds
+RAidakCo: folds
+typ6oky3mu4: folds
+AlexeSsz: raises $7.50 to $12.50
+spzilla: calls $12.50
+pelyatww: raises $57.50 to $70
+Zavorotny: folds
+AlexeSsz: calls $57.50
+spzilla: calls $57.50
+*** FLOP *** [Qh 3c Ah]
+pelyatww: checks
+AlexeSsz: bets $72.60
+spzilla: calls $72.60
+pelyatww: folds
+*** TURN *** [Qh 3c Ah] [Kc]
+AlexeSsz: bets $120.52
+spzilla: folds
+Uncalled bet ($120.52) returned to AlexeSsz
+AlexeSsz collected $365.20 from pot
+AlexeSsz: doesn't show hand
+*** SUMMARY ***
+Total pot $368.20 | Rake $3
+Board [Qh 3c Ah Kc]
+Seat 1: Zavorotny (big blind) folded before Flop
+Seat 2: ljryviltj folded before Flop (didn't bet)
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz collected ($365.20)
+Seat 8: spzilla (button) folded on the Turn
+Seat 9: pelyatww (small blind) folded on the Flop
+
+
+PokerStars Hand #240970833578:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 4:03:42 ET
+Table 'Ancha II' 9-max Seat #9 is the button
+Seat 1: Zavorotny ($519 in chips)
+Seat 2: ljryviltj ($662.78 in chips)
+Seat 3: oledgyk ($843.22 in chips)
+Seat 4: RAidakCo ($1123.41 in chips)
+Seat 5: typ6oky3mu4 ($664.70 in chips)
+Seat 6: AlexeSsz ($1610.59 in chips)
+Seat 8: spzilla ($319.06 in chips)
+Seat 9: pelyatww ($500 in chips)
+Zavorotny: posts small blind $2.50
+ljryviltj: posts big blind $5
+Gratitdude: sits out
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+spzilla: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+oledgyk: folds
+RAidakCo: raises $6 to $11
+typ6oky3mu4: folds
+AlexeSsz: folds
+spzilla: calls $11
+pelyatww: raises $39 to $50
+Zavorotny: folds
+ljryviltj: folds
+RAidakCo: folds
+spzilla: calls $39
+*** FLOP *** [8s 5d 4h]
+spzilla: checks
+pelyatww: bets $40.75
+spzilla: calls $40.75
+*** TURN *** [8s 5d 4h] [6c]
+spzilla: checks
+pelyatww: bets $67.65
+spzilla: calls $67.65
+*** RIVER *** [8s 5d 4h 6c] [Ts]
+spzilla: bets $159.66 and is all-in
+pelyatww: calls $159.66
+*** SHOW DOWN ***
+spzilla: shows [3d 6d] (a pair of Sixes)
+pelyatww: shows [Ah Ad] (a pair of Aces)
+pelyatww collected $659.62 from pot
+*** SUMMARY ***
+Total pot $662.62 | Rake $3
+Board [8s 5d 4h 6c Ts]
+Seat 1: Zavorotny (small blind) folded before Flop
+Seat 2: ljryviltj (big blind) folded before Flop
+Seat 3: oledgyk folded before Flop (didn't bet)
+Seat 4: RAidakCo folded before Flop
+Seat 5: typ6oky3mu4 folded before Flop (didn't bet)
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 8: spzilla showed [3d 6d] and lost with a pair of Sixes
+Seat 9: pelyatww (button) showed [Ah Ad] and won ($659.62) with a pair of Aces
+
+
+PokerStars Hand #240970843617:  Hold'em No Limit ($2.50/$5.00 USD) - 2023/01/07 4:04:56 ET
+Table 'Ancha II' 9-max Seat #1 is the button
+Seat 1: Zavorotny ($515.50 in chips)
+Seat 2: ljryviltj ($656.78 in chips)
+Seat 3: oledgyk ($842.22 in chips)
+Seat 4: RAidakCo ($1111.41 in chips)
+Seat 5: typ6oky3mu4 ($663.70 in chips)
+Seat 6: AlexeSsz ($1609.59 in chips)
+Seat 9: pelyatww ($840.56 in chips)
+ljryviltj: posts small blind $2.50
+oledgyk: posts big blind $5
+Gratitdude: sits out
+Zavorotny: posts the ante $1
+ljryviltj: posts the ante $1
+oledgyk: posts the ante $1
+RAidakCo: posts the ante $1
+typ6oky3mu4: posts the ante $1
+AlexeSsz: posts the ante $1
+pelyatww: posts the ante $1
+*** HOLE CARDS ***
+RAidakCo: folds
+spzilla leaves the table
+typ6oky3mu4: raises $7.50 to $12.50
+AlexeSsz: folds
+pelyatww: folds
+Zavorotny: folds
+RAidakCo leaves the table
+ljryviltj: raises $47.50 to $60
+oledgyk: folds
+typ6oky3mu4: folds
+Uncalled bet ($47.50) returned to ljryviltj
+ljryviltj collected $37 from pot
+ljryviltj: doesn't show hand
+*** SUMMARY ***
+Total pot $37 | Rake $0
+Seat 1: Zavorotny (button) folded before Flop (didn't bet)
+Seat 2: ljryviltj (small blind) collected ($37)
+Seat 3: oledgyk (big blind) folded before Flop
+Seat 4: RAidakCo folded before Flop (didn't bet)
+Seat 5: typ6oky3mu4 folded before Flop
+Seat 6: AlexeSsz folded before Flop (didn't bet)
+Seat 9: pelyatww folded before Flop (didn't bet)
+
+

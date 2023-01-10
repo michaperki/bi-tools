@@ -10,6 +10,14 @@ text = open(path +
 # split text by three enter keys
 text = text.split("\n\n\n")
 
+# function that takes in one or more regex 
+# strings, concatenates them, and adds the 
+# result to a non-capturing group and gives 
+# the group a quantifier of 0 or 1, then 
+# returns the result
+def optional(*args):
+    return "(?:" + "".join(args) + ")?"
+
 # regex for parsing hand history
 rx_hand_num = r"PokerStars Hand #(\d+)"
 rx_stakes = r":  Hold'em No Limit \((\W\d.\d+/\W\d.\d+ \w+)\)"
@@ -19,17 +27,22 @@ rx_max_players = r"(\d+)-max "
 rx_button = r"Seat #(\d) is the button"
 rx_players = r"((?:\n.* \(.\d+.\d+ in chips\)){1,9})"
 rx_start = r"((?:\n.*)+)\n\*\*\* HOLE CARDS \*\*\*"
-rx_preflop_action = r"((?:\n.*)+)"
+rx_preflop_action = r"((?:\n[^\*].*)+)"
 rx_flop = r"\n\*\*\* FLOP \*\*\* (\[.*\])"
-rx_flop_action = r"(?:((?:\n.*)+)\n\*\*\* TURN \*\*\*"
-rx_turn = r" (\[.*\]))?"
-rx_turn_action = r"((?:\n.*)+)\n\*\*\* RIVER \*\*\*"
-rx_river = r" (\[.*\])"
-rx_river_action = r"((?:\n.*)+)\n\*\*\* SUMMARY \*\*\*"
-rx_summary = r"((?:\n.*)+)"
+rx_flop_action = r"(?:((?:\n[^\*].*)+)"
+rx_turn = r"\n\*\*\* TURN \*\*\* (\[.*\]))?"
+rx_turn_action = r"((?:\n[^\*].*)+)"
+rx_river = r"\n\*\*\* RIVER \*\*\* (\[.*\])"
+rx_river_action = r"((?:\n[^\*].*)+)"
+rx_summary = r"\n\*\*\* SUMMARY \*\*\*((?:\n.*)+)"
+
+
+rx_river_optional = optional(rx_river, rx_river_action)
+rx_turn_and_river_optional = optional(rx_turn, rx_turn_action, rx_river_optional)
+rx_flop_turn_and_river_optional = optional(rx_flop, rx_flop_action, rx_turn_and_river_optional)
 
 # combine regex
-pattern = rx_hand_num + rx_stakes + rx_date + rx_table + rx_max_players + rx_button + rx_players + rx_start + rx_preflop_action + rx_flop + rx_flop_action + rx_turn + rx_turn_action + rx_river + rx_river_action + rx_summary
+pattern = rx_hand_num + rx_stakes + rx_date + rx_table + rx_max_players + rx_button + rx_players + rx_start + rx_preflop_action + rx_flop_turn_and_river_optional + rx_summary
 
 # compile regex
 hand_history_regex = re.compile(pattern)
@@ -80,4 +93,4 @@ df = pd.DataFrame({
 })
 
 
-print(pattern)
+print(df.shape)

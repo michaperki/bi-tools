@@ -91,6 +91,8 @@ df = pd.DataFrame({
 })
 
 # parse preflop column
-rx_limped = r"raises (.\d+.?\d{0,2}) to (.\d+.?\d{0,2})"
+rx_limped = r"(?:.*[^(raises)]\n){0,}.*raises (.\d+.?\d{0,2}) to (.\d+.?\d{0,2})\n(?:.*\n){0,}.*(?:raises (.\d+.?\d{0,2}) to (.\d+.?\d{0,2}))"
 df['pf_raise'] = df.preflop.str.extract(rx_limped)[0]
+df['pf_3b'] = df.preflop.str.extract(rx_limped)[2]
+
 print(df.head())

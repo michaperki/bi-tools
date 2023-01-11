@@ -35,7 +35,6 @@ rx_summary = r"\n\*\*\* SUMMARY \*\*\*((?:\n.*)+)"
 
 rx_action = r"((?:\n[^\*].*)+)"
 
-
 rx_river_optional = optional(rx_river, rx_action)
 rx_turn_and_river_optional = optional(rx_turn, rx_action, rx_river_optional)
 rx_flop_turn_and_river_optional = optional(rx_flop, rx_action, rx_turn_and_river_optional)
@@ -91,5 +90,7 @@ df = pd.DataFrame({
     "summary": summary
 })
 
-
-print(df.shape)
+# parse preflop column
+rx_limped = r"raises (.\d+.?\d{0,2}) to (.\d+.?\d{0,2})"
+df['pf_raise'] = df.preflop.str.extract(rx_limped)[0]
+print(df.head())
